@@ -13,13 +13,16 @@
         body {
             font-family: Arial, Helvetica, sans-serif;
             margin: 0;
+            background-color: #FFC000
         }
 
         /* Header/logo Title */
         .header {
             padding: 80px;
             text-align: center;
-            background: #FFC000;
+            background: url('Images/header.jpg');
+            background-repeat: no-repeat;
+            background-size: cover; /* or try 100% 100% but cover looks better */
             color: black;
         }
 
@@ -73,6 +76,7 @@
             display: flex;
             -ms-flex-wrap: wrap; /* IE10 */
             flex-wrap: wrap;
+
         }
 
         /* Create two unequal columns that sits next to each other */
@@ -80,7 +84,7 @@
         .side {
             -ms-flex: 30%; /* IE10 */
             flex: 30%;
-            background-color: #f1f1f1;
+            background-color: #E46C0A; /* blue: #4BACC6; orange: #E46C0A */
             padding: 20px;
         }
 
@@ -88,22 +92,18 @@
         .main {
             -ms-flex: 70%; /* IE10 */
             flex: 70%;
-            background-color: white;
+            background-color: #FFC000;
             padding: 20px;
         }
 
         /* Fake image, just for this example */
-        .fakeimg {
-            background-color: #aaa;
-            width: 100%;
-            padding: 20px;
-        }
+
 
         /* Footer */
         .footer {
             padding: 20px;
             text-align: center;
-            background: #ddd;
+            background: #666;
         }
 
         /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
@@ -126,7 +126,7 @@
 
 <div class="header">
     <h1>Save the Bees</h1>
-    <p> CS360 Final Project</p>
+    <p>By Angela Rubalcava</p>
 </div>
 
 <div class="navbar">
@@ -141,14 +141,18 @@
     <div class="side">
         <h2>About The Project</h2>
         <h5>¡Bees!</h5>
-        <img src="Images/honeyBee1.jpg" alt="Honey Bee"  height="200px;">
+        <img src="Images/beeHead.jpg" alt="Honey Bee"  height="200px;">
 
         <h3>Goal of the project.</h3>
         <p>goals are....</p>
         <h3>Motivation</h3>
         <p>motivation is...</p>
-        <div class="beegif" style="height:60px;">Image</div><br>
-        <div class="ecosystemofbeeimage" style="height:60px;">Image</div>
+        <img src="Images/honeybeeGif.gif" alt="Honey Bee Flower Feeding"  height="200px;">
+        <h3>Additonal Information/Resources</h3>
+        <p>Some additional useful information...</p>
+        <!--add links-->
+       <!-- <a href="link" >link name</a>-->
+        <img src="Images/beeHive.jpg" alt="Honey Bee"  height="200px;">
     </div>
     <div class="main">
         <h2>Bee Colony Numbers Across the US</h2>
