@@ -234,8 +234,8 @@
         <h2>Bee Colony Numbers Across the US</h2>
         <h5>US Heat Map for bee colony numbers.</h5>
         <div class="dropdown">
-            <button onclick="myFunction()" class="dropbtn">Dropdown</button>
-            <div id="myDropdown" class="dropdown-content">
+            <button onclick="myFunction(1)" class="dropbtn">Dropdown</button>
+            <div id="myDropdown1" class="dropdown-content">
                 <a href="USMap_Files/index_2015.html">2015</a>
                 <a href="USMap_Files/index_2016.html">2016</a>
                 <a href="USMap_Files/index_2017.html">2017</a>
@@ -246,11 +246,25 @@
             </div>
         </div>
         <iframe class="preview" src="USMap_Files/index_2015.html"></iframe>
-        <p>context</p>
+        <p>This chart is a heat map of bee colony populations across the US. This map allows for users
+        to easily distinguish states with high colony populations from states with low colony populations. You can hover
+        over any state and it will show the bee colony population for that state in the selected year.</p>
         <br>
 
         <h2>Parallel Coordinate Chart</h2>
         <h5>Chart for bee colony population, colony loss, number of added colonies, and number of renovated colonies.</h5>
+        <div class="dropdown">
+            <button onclick="myFunction(2)" class="dropbtn">Select Year</button>
+            <div id="myDropdown2" class="dropdown-content">
+                <a href="#chart1">2015</a>
+                <a href="#chart2">2016</a>
+                <a href="#chart3">2017</a>
+                <a href="#chart4">2018</a>
+                <a href="#chart5">2019</a>
+                <a href="#chart6">2020</a>
+                <a href="#chart7">2021</a>
+            </div>
+        </div>
         <div class="fakeimg" style="height:200px;">Image</div>
         <p>context.</p>
     </div>
@@ -264,9 +278,10 @@
 <script>
     /* When the user clicks on the button,
     toggle between hiding and showing the dropdown content */
-    function myFunction() {
-        document.getElementById("myDropdown").classList.toggle("show");
+    function myFunction(num) {
+        document.getElementById("myDropdown" + num).classList.toggle("show");
     }
+
 
     // Close the dropdown if the user clicks outside of it
     window.onclick = function(event) {
