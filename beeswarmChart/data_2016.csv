@@ -1,0 +1,1067 @@
+year,state,id,value
+2016,Alabama,Varroa mites,24.2
+2016,Alabama,Other pests/parasites,22
+2016,Alabama,Disesases,4.3
+2016,Alabama,Pesticides,8.1
+2016,Alabama,Other,2.4
+2016,Alabama,Unknown,11.3
+2016,Arizona,Varroa mites,32.8
+2016,Arizona,Other pests/parasites,2.8
+2016,Arizona,Pesticides,7.7
+2016,Arizona,Other,6.5
+2016,Arizona,Unknown,7.2
+2016,Arkansas,Varroa mites,57.5
+2016,Arkansas,Other pests/parasites,7
+2016,Arkansas,Pesticides,0.5
+2016,Arkansas,Other,1.9
+2016,Arkansas,Unknown,8.1
+2016,California,Varroa mites,38.5
+2016,California,Other pests/parasites,15.2
+2016,California,Disesases,9
+2016,California,Pesticides,12.6
+2016,California,Other,8.4
+2016,California,Unknown,4.3
+2016,Colorado,Varroa mites,3.5
+2016,Colorado,Other pests/parasites,4.7
+2016,Colorado,Disesases,0.6
+2016,Colorado,Pesticides,0.3
+2016,Colorado,Other,3
+2016,Colorado,Unknown,0.2
+2016,Connecticut,Varroa mites,12.3
+2016,Connecticut,Other pests/parasites,0.8
+2016,Connecticut,Disesases,0.2
+2016,Connecticut,Other,7.7
+2016,Connecticut,Unknown,1.7
+2016,Florida,Varroa mites,21.7
+2016,Florida,Other pests/parasites,6.3
+2016,Florida,Disesases,0.5
+2016,Florida,Pesticides,5.4
+2016,Florida,Other,1.9
+2016,Florida,Unknown,1.5
+2016,Georgia,Varroa mites,32.2
+2016,Georgia,Other pests/parasites,7.7
+2016,Georgia,Disesases,2.1
+2016,Georgia,Pesticides,21.3
+2016,Georgia,Other,3.1
+2016,Georgia,Unknown,3.9
+2016,Hawaii,Varroa mites,0.3
+2016,Hawaii,Other pests/parasites,1.5
+2016,Hawaii,Pesticides,0.1
+2016,Hawaii,Other,0.8
+2016,Idaho,Varroa mites,31.7
+2016,Idaho,Other pests/parasites,2.3
+2016,Idaho,Disesases,2.1
+2016,Idaho,Pesticides,5.9
+2016,Idaho,Other,5.5
+2016,Idaho,Unknown,0.3
+2016,Illinois,Varroa mites,15
+2016,Illinois,Other pests/parasites,7.8
+2016,Illinois,Disesases,0.4
+2016,Illinois,Pesticides,2.9
+2016,Illinois,Other,5
+2016,Illinois,Unknown,10.4
+2016,Indiana,Varroa mites,17.4
+2016,Indiana,Other pests/parasites,3.7
+2016,Indiana,Disesases,0.9
+2016,Indiana,Pesticides,0.3
+2016,Indiana,Other,7.2
+2016,Indiana,Unknown,5.5
+2016,Iowa,Varroa mites,41.6
+2016,Iowa,Other pests/parasites,0.5
+2016,Iowa,Pesticides,2.1
+2016,Iowa,Other,34.4
+2016,Iowa,Unknown,12.2
+2016,Kansas,Varroa mites,32.2
+2016,Kansas,Other pests/parasites,10.6
+2016,Kansas,Disesases,0.1
+2016,Kansas,Pesticides,1.2
+2016,Kansas,Other,2.6
+2016,Kansas,Unknown,5.8
+2016,Kentucky,Varroa mites,20.9
+2016,Kentucky,Other pests/parasites,8
+2016,Kentucky,Disesases,0.6
+2016,Kentucky,Pesticides,5.6
+2016,Kentucky,Other,11.1
+2016,Kentucky,Unknown,7.5
+2016,Louisiana,Varroa mites,18
+2016,Louisiana,Other pests/parasites,11.1
+2016,Louisiana,Disesases,13.9
+2016,Louisiana,Pesticides,0.3
+2016,Louisiana,Other,9.9
+2016,Louisiana,Unknown,1.5
+2016,Maine,Varroa mites,3.3
+2016,Maine,Other pests/parasites,0.4
+2016,Maine,Disesases,0.3
+2016,Maine,Other,0.8
+2016,Maine,Unknown,1.4
+2016,Maryland,Varroa mites,30.2
+2016,Maryland,Other pests/parasites,0.1
+2016,Maryland,Pesticides,11
+2016,Maryland,Other,7.8
+2016,Maryland,Unknown,0.8
+2016,Massachusetts,Varroa mites,10.1
+2016,Massachusetts,Other pests/parasites,5.2
+2016,Massachusetts,Disesases,0.7
+2016,Massachusetts,Other,3.1
+2016,Massachusetts,Unknown,1.1
+2016,Michigan,Varroa mites,5.4
+2016,Michigan,Other pests/parasites,0.2
+2016,Michigan,Pesticides,0.5
+2016,Michigan,Other,1.2
+2016,Michigan,Unknown,10.3
+2016,Minnesota,Varroa mites,11.8
+2016,Minnesota,Other pests/parasites,6.9
+2016,Minnesota,Disesases,0.1
+2016,Minnesota,Pesticides,11.3
+2016,Minnesota,Other,7.1
+2016,Minnesota,Unknown,14.2
+2016,Mississippi,Varroa mites,8.5
+2016,Mississippi,Other pests/parasites,1.1
+2016,Mississippi,Pesticides,2
+2016,Mississippi,Other,0.2
+2016,Mississippi,Unknown,8.8
+2016,Missouri,Varroa mites,17.8
+2016,Missouri,Other pests/parasites,6.2
+2016,Missouri,Disesases,0.3
+2016,Missouri,Pesticides,5.4
+2016,Missouri,Other,4
+2016,Missouri,Unknown,5.4
+2016,Montana,Varroa mites,0.8
+2016,Montana,Pesticides,0.6
+2016,Montana,Other,0.2
+2016,Montana,Unknown,0.1
+2016,Nebraska,Varroa mites,1.7
+2016,Nebraska,Other pests/parasites,0.4
+2016,Nebraska,Disesases,0.1
+2016,Nebraska,Pesticides,0.2
+2016,Nebraska,Other,0.8
+2016,Nebraska,Unknown,0.4
+2016,New Jersey,Varroa mites,5.5
+2016,New Jersey,Other pests/parasites,0.8
+2016,New Jersey,Disesases,0.2
+2016,New Jersey,Pesticides,0.4
+2016,New Jersey,Other,1.2
+2016,New Jersey,Unknown,8.2
+2016,New Mexico,Varroa mites,69
+2016,New Mexico,Other pests/parasites,0.4
+2016,New Mexico,Disesases,31.5
+2016,New Mexico,Other,1.5
+2016,New Mexico,Unknown,0.3
+2016,New York,Varroa mites,27.5
+2016,New York,Other pests/parasites,5.9
+2016,New York,Disesases,1.5
+2016,New York,Pesticides,7.6
+2016,New York,Other,9.5
+2016,New York,Unknown,2.6
+2016,North Carolina,Varroa mites,9.6
+2016,North Carolina,Other pests/parasites,2.5
+2016,North Carolina,Disesases,1.9
+2016,North Carolina,Pesticides,2.7
+2016,North Carolina,Other,4
+2016,North Carolina,Unknown,2.5
+2016,North Dakota,Unknown,9.9
+2016,Ohio,Varroa mites,41.9
+2016,Ohio,Other pests/parasites,4.4
+2016,Ohio,Disesases,0.2
+2016,Ohio,Pesticides,1.3
+2016,Ohio,Other,10.2
+2016,Ohio,Unknown,5.3
+2016,Oklahoma,Varroa mites,9.7
+2016,Oklahoma,Other pests/parasites,2.6
+2016,Oklahoma,Disesases,0.1
+2016,Oklahoma,Pesticides,0.6
+2016,Oklahoma,Other,2.4
+2016,Oklahoma,Unknown,41.5
+2016,Oregon,Varroa mites,20.9
+2016,Oregon,Other pests/parasites,15
+2016,Oregon,Disesases,5.3
+2016,Oregon,Other,2.4
+2016,Oregon,Unknown,0.3
+2016,Pennsylvania,Varroa mites,44.8
+2016,Pennsylvania,Other pests/parasites,4.3
+2016,Pennsylvania,Disesases,0.3
+2016,Pennsylvania,Pesticides,3.8
+2016,Pennsylvania,Other,5.5
+2016,Pennsylvania,Unknown,4.6
+2016,South Carolina,Varroa mites,11
+2016,South Carolina,Other pests/parasites,2.3
+2016,South Carolina,Disesases,0.6
+2016,South Carolina,Pesticides,2.1
+2016,South Carolina,Other,5.1
+2016,South Carolina,Unknown,4.9
+2016,South Dakota,Varroa mites,0.2
+2016,South Dakota,Other,0.4
+2016,South Dakota,Unknown,0.3
+2016,Tennessee,Varroa mites,19.7
+2016,Tennessee,Other pests/parasites,7.1
+2016,Tennessee,Disesases,0.2
+2016,Tennessee,Pesticides,3.7
+2016,Tennessee,Other,10.1
+2016,Tennessee,Unknown,10.9
+2016,Texas,Varroa mites,21
+2016,Texas,Other pests/parasites,10.6
+2016,Texas,Disesases,2.5
+2016,Texas,Pesticides,10.2
+2016,Texas,Other,4
+2016,Texas,Unknown,2.7
+2016,Utah,Varroa mites,28.8
+2016,Utah,Other pests/parasites,7.6
+2016,Utah,Disesases,0.1
+2016,Utah,Pesticides,0.4
+2016,Utah,Other,1.9
+2016,Utah,Unknown,0.6
+2016,Vermont,Varroa mites,1.3
+2016,Vermont,Disesases,0.3
+2016,Vermont,Other,0.5
+2016,Vermont,Unknown,1.7
+2016,Virginia,Varroa mites,32.7
+2016,Virginia,Other pests/parasites,7.2
+2016,Virginia,Pesticides,0.4
+2016,Virginia,Other,5
+2016,Virginia,Unknown,3.8
+2016,Washington,Varroa mites,21.6
+2016,Washington,Other pests/parasites,11.3
+2016,Washington,Disesases,1.4
+2016,Washington,Pesticides,1.7
+2016,Washington,Other,1.7
+2016,Washington,Unknown,5.4
+2016,West Virginia,Varroa mites,21.9
+2016,West Virginia,Other pests/parasites,2.9
+2016,West Virginia,Disesases,1.1
+2016,West Virginia,Pesticides,0.6
+2016,West Virginia,Other,6.9
+2016,West Virginia,Unknown,6.5
+2016,Wisconsin,Varroa mites,22
+2016,Wisconsin,Other pests/parasites,1.5
+2016,Wisconsin,Disesases,1
+2016,Wisconsin,Pesticides,12.2
+2016,Wisconsin,Other,8.8
+2016,Wisconsin,Unknown,9.4
+2016,Wyoming,Other pests/parasites,0.5
+2016,Wyoming,Disesases,0.2
+2016,Wyoming,Pesticides,3.3
+2016,Wyoming,Other,1
+2016,Wyoming,Unknown,1.6
+2016,Other States,Varroa mites,0.1
+2016,Other States,Other,13.3
+2016,United States,Varroa mites,34.3
+2016,United States,Other pests/parasites,12.6
+2016,United States,Disesases,6.2
+2016,United States,Pesticides,10.5
+2016,United States,Other,7
+2016,United States,Unknown,5.4
+2016,Alabama,Varroa mites,9.6
+2016,Alabama,Other pests/parasites,8.2
+2016,Alabama,Disesases,0.3
+2016,Alabama,Pesticides,1.7
+2016,Alabama,Other,4.8
+2016,Alabama,Unknown,5.4
+2016,Arizona,Varroa mites,26.8
+2016,Arizona,Other pests/parasites,47.5
+2016,Arizona,Disesases,17.2
+2016,Arizona,Pesticides,12
+2016,Arizona,Other,17.4
+2016,Arizona,Unknown,3.5
+2016,Arkansas,Varroa mites,84.9
+2016,Arkansas,Other pests/parasites,8.5
+2016,Arkansas,Disesases,5.5
+2016,Arkansas,Pesticides,0.1
+2016,Arkansas,Other,3.4
+2016,Arkansas,Unknown,1.6
+2016,California,Varroa mites,49.7
+2016,California,Other pests/parasites,14.1
+2016,California,Disesases,11.2
+2016,California,Pesticides,14.2
+2016,California,Other,15.3
+2016,California,Unknown,2.6
+2016,Colorado,Varroa mites,38.7
+2016,Colorado,Other pests/parasites,0.8
+2016,Colorado,Disesases,3.3
+2016,Colorado,Pesticides,1.4
+2016,Colorado,Other,2.6
+2016,Colorado,Unknown,0.3
+2016,Connecticut,Varroa mites,9.3
+2016,Connecticut,Other pests/parasites,0.6
+2016,Connecticut,Disesases,0.5
+2016,Connecticut,Pesticides,0.3
+2016,Connecticut,Other,4.4
+2016,Connecticut,Unknown,1.2
+2016,Florida,Varroa mites,48.2
+2016,Florida,Other pests/parasites,23.3
+2016,Florida,Disesases,10
+2016,Florida,Pesticides,11.6
+2016,Florida,Other,10.1
+2016,Florida,Unknown,2
+2016,Georgia,Varroa mites,59.3
+2016,Georgia,Other pests/parasites,28.4
+2016,Georgia,Disesases,2
+2016,Georgia,Pesticides,28.4
+2016,Georgia,Other,11.7
+2016,Georgia,Unknown,2.7
+2016,Hawaii,Varroa mites,35.6
+2016,Hawaii,Other pests/parasites,38.1
+2016,Hawaii,Pesticides,0.6
+2016,Hawaii,Other,3.2
+2016,Idaho,Varroa mites,21.2
+2016,Idaho,Other pests/parasites,4.8
+2016,Idaho,Disesases,2.7
+2016,Idaho,Pesticides,3.1
+2016,Idaho,Other,5.4
+2016,Idaho,Unknown,2.7
+2016,Illinois,Varroa mites,11.4
+2016,Illinois,Other pests/parasites,4.4
+2016,Illinois,Disesases,2
+2016,Illinois,Pesticides,3.1
+2016,Illinois,Other,4.7
+2016,Illinois,Unknown,2.1
+2016,Indiana,Varroa mites,12.5
+2016,Indiana,Other pests/parasites,2.9
+2016,Indiana,Pesticides,2.1
+2016,Indiana,Other,2.8
+2016,Indiana,Unknown,4.3
+2016,Iowa,Varroa mites,23.5
+2016,Iowa,Other pests/parasites,17.8
+2016,Iowa,Disesases,18.7
+2016,Iowa,Pesticides,0.6
+2016,Iowa,Other,6
+2016,Iowa,Unknown,5.7
+2016,Kansas,Varroa mites,47.3
+2016,Kansas,Other pests/parasites,11.6
+2016,Kansas,Disesases,2.8
+2016,Kansas,Pesticides,8.3
+2016,Kansas,Other,3.7
+2016,Kansas,Unknown,1.8
+2016,Kentucky,Varroa mites,38.9
+2016,Kentucky,Other pests/parasites,36.1
+2016,Kentucky,Disesases,1.7
+2016,Kentucky,Pesticides,28.4
+2016,Kentucky,Other,16
+2016,Kentucky,Unknown,3.8
+2016,Louisiana,Varroa mites,20.7
+2016,Louisiana,Other pests/parasites,1.1
+2016,Louisiana,Pesticides,0.3
+2016,Louisiana,Other,1.2
+2016,Louisiana,Unknown,0.6
+2016,Maine,Varroa mites,82.7
+2016,Maine,Disesases,4.3
+2016,Maine,Pesticides,31.1
+2016,Maine,Other,2.4
+2016,Maine,Unknown,27.9
+2016,Maryland,Varroa mites,4.2
+2016,Maryland,Other pests/parasites,2.3
+2016,Maryland,Disesases,2.4
+2016,Maryland,Pesticides,2.9
+2016,Maryland,Other,3.3
+2016,Maryland,Unknown,0.6
+2016,Massachusetts,Varroa mites,40.5
+2016,Massachusetts,Other pests/parasites,10.6
+2016,Massachusetts,Disesases,0.3
+2016,Massachusetts,Pesticides,10.6
+2016,Massachusetts,Other,2.3
+2016,Massachusetts,Unknown,11.9
+2016,Michigan,Varroa mites,54.1
+2016,Michigan,Other pests/parasites,9.3
+2016,Michigan,Disesases,1.1
+2016,Michigan,Pesticides,16.5
+2016,Michigan,Other,11.8
+2016,Michigan,Unknown,1.1
+2016,Minnesota,Varroa mites,20.8
+2016,Minnesota,Other pests/parasites,6
+2016,Minnesota,Disesases,6.5
+2016,Minnesota,Pesticides,18.2
+2016,Minnesota,Other,8.6
+2016,Minnesota,Unknown,7.6
+2016,Mississippi,Varroa mites,12.3
+2016,Mississippi,Other pests/parasites,2.3
+2016,Mississippi,Disesases,1.2
+2016,Mississippi,Pesticides,2.7
+2016,Mississippi,Other,1.2
+2016,Mississippi,Unknown,0.1
+2016,Missouri,Varroa mites,17.2
+2016,Missouri,Other pests/parasites,1.6
+2016,Missouri,Disesases,0.7
+2016,Missouri,Pesticides,0.1
+2016,Missouri,Other,1.6
+2016,Missouri,Unknown,1.2
+2016,Montana,Varroa mites,30.3
+2016,Montana,Other pests/parasites,7.1
+2016,Montana,Disesases,4.5
+2016,Montana,Pesticides,3.9
+2016,Montana,Other,6.9
+2016,Montana,Unknown,0.2
+2016,Nebraska,Varroa mites,6.1
+2016,Nebraska,Other pests/parasites,0.1
+2016,Nebraska,Disesases,1
+2016,Nebraska,Pesticides,3.8
+2016,Nebraska,Other,1.1
+2016,Nebraska,Unknown,3.5
+2016,New Jersey,Varroa mites,11.9
+2016,New Jersey,Other pests/parasites,0.9
+2016,New Jersey,Disesases,0.2
+2016,New Jersey,Other,0.2
+2016,New Jersey,Unknown,0.3
+2016,New Mexico,Varroa mites,59.1
+2016,New Mexico,Other pests/parasites,0.3
+2016,New Mexico,Disesases,12.1
+2016,New Mexico,Pesticides,2.5
+2016,New Mexico,Other,8.2
+2016,New York,Varroa mites,20.4
+2016,New York,Other pests/parasites,3.1
+2016,New York,Disesases,0.9
+2016,New York,Pesticides,11.7
+2016,New York,Other,4.1
+2016,New York,Unknown,3.8
+2016,North Carolina,Varroa mites,51.8
+2016,North Carolina,Other pests/parasites,23.5
+2016,North Carolina,Disesases,4.7
+2016,North Carolina,Pesticides,33.8
+2016,North Carolina,Other,8.3
+2016,North Carolina,Unknown,41.7
+2016,North Dakota,Varroa mites,16.2
+2016,North Dakota,Other pests/parasites,3.7
+2016,North Dakota,Disesases,2.1
+2016,North Dakota,Pesticides,1.1
+2016,North Dakota,Other,3.6
+2016,North Dakota,Unknown,0.2
+2016,Ohio,Varroa mites,10.6
+2016,Ohio,Other pests/parasites,2.2
+2016,Ohio,Disesases,0.6
+2016,Ohio,Pesticides,18.3
+2016,Ohio,Other,2.9
+2016,Ohio,Unknown,1.4
+2016,Oklahoma,Varroa mites,51.8
+2016,Oklahoma,Other pests/parasites,2.8
+2016,Oklahoma,Disesases,0.2
+2016,Oklahoma,Pesticides,1.2
+2016,Oklahoma,Other,0.6
+2016,Oklahoma,Unknown,0.4
+2016,Oregon,Varroa mites,52.7
+2016,Oregon,Other pests/parasites,14.5
+2016,Oregon,Disesases,9.9
+2016,Oregon,Pesticides,2.6
+2016,Oregon,Other,16.7
+2016,Oregon,Unknown,6
+2016,Pennsylvania,Varroa mites,18.7
+2016,Pennsylvania,Other pests/parasites,3.9
+2016,Pennsylvania,Disesases,2.4
+2016,Pennsylvania,Pesticides,3.6
+2016,Pennsylvania,Other,4.6
+2016,Pennsylvania,Unknown,0.9
+2016,South Carolina,Varroa mites,51.3
+2016,South Carolina,Other pests/parasites,36.6
+2016,South Carolina,Disesases,1
+2016,South Carolina,Pesticides,35.8
+2016,South Carolina,Other,14.3
+2016,South Carolina,Unknown,1.3
+2016,South Dakota,Varroa mites,32.4
+2016,South Dakota,Other pests/parasites,6.6
+2016,South Dakota,Disesases,1.7
+2016,South Dakota,Pesticides,5.1
+2016,South Dakota,Other,15.4
+2016,South Dakota,Unknown,0.1
+2016,Tennessee,Varroa mites,40.9
+2016,Tennessee,Other pests/parasites,22.7
+2016,Tennessee,Disesases,0.1
+2016,Tennessee,Pesticides,0.4
+2016,Tennessee,Other,9.1
+2016,Tennessee,Unknown,2.6
+2016,Texas,Varroa mites,26.1
+2016,Texas,Other pests/parasites,9
+2016,Texas,Disesases,7.5
+2016,Texas,Pesticides,2.4
+2016,Texas,Other,7.4
+2016,Texas,Unknown,3.7
+2016,Utah,Varroa mites,23
+2016,Utah,Other pests/parasites,0.1
+2016,Utah,Disesases,1.8
+2016,Utah,Pesticides,7.3
+2016,Utah,Other,3.4
+2016,Utah,Unknown,0.8
+2016,Vermont,Varroa mites,2.6
+2016,Vermont,Other pests/parasites,0.1
+2016,Vermont,Disesases,0.1
+2016,Vermont,Other,0.3
+2016,Vermont,Unknown,0.1
+2016,Virginia,Varroa mites,23.1
+2016,Virginia,Other pests/parasites,4.2
+2016,Virginia,Disesases,6.8
+2016,Virginia,Pesticides,6
+2016,Virginia,Other,7.3
+2016,Virginia,Unknown,2.9
+2016,Washington,Varroa mites,40.9
+2016,Washington,Other pests/parasites,11.4
+2016,Washington,Disesases,3.3
+2016,Washington,Pesticides,3.1
+2016,Washington,Other,11.1
+2016,Washington,Unknown,0.6
+2016,West Virginia,Varroa mites,20.1
+2016,West Virginia,Other pests/parasites,0.8
+2016,West Virginia,Disesases,4.2
+2016,West Virginia,Other,14.7
+2016,West Virginia,Unknown,0.7
+2016,Wisconsin,Varroa mites,23.4
+2016,Wisconsin,Other pests/parasites,3.7
+2016,Wisconsin,Disesases,12.8
+2016,Wisconsin,Pesticides,12.6
+2016,Wisconsin,Other,14.9
+2016,Wisconsin,Unknown,10.5
+2016,Wyoming,Varroa mites,7.1
+2016,Wyoming,Other pests/parasites,2.6
+2016,Wyoming,Disesases,1.2
+2016,Wyoming,Pesticides,0.6
+2016,Wyoming,Other,2.5
+2016,Wyoming,Unknown,0.8
+2016,Other States,Varroa mites,7.6
+2016,Other States,Other pests/parasites,0.2
+2016,Other States,Pesticides,0.8
+2016,Other States,Other,0.6
+2016,Other States,Unknown,5.4
+2016,United States,Varroa mites,53.4
+2016,United States,Other pests/parasites,16.3
+2016,United States,Disesases,9.5
+2016,United States,Pesticides,12.4
+2016,United States,Other,12.3
+2016,United States,Unknown,4.1
+2016,Alabama,Varroa mites,11.7
+2016,Alabama,Other pests/parasites,42
+2016,Alabama,Pesticides,3.8
+2016,Alabama,Other,3.2
+2016,Alabama,Unknown,13.8
+2016,Arizona,Varroa mites,41.7
+2016,Arizona,Other pests/parasites,1
+2016,Arizona,Disesases,0.9
+2016,Arizona,Pesticides,13.5
+2016,Arizona,Other,13.4
+2016,Arizona,Unknown,8.9
+2016,Arkansas,Varroa mites,80.7
+2016,Arkansas,Other pests/parasites,9
+2016,Arkansas,Disesases,0.4
+2016,Arkansas,Pesticides,7.9
+2016,Arkansas,Other,2.7
+2016,Arkansas,Unknown,0.3
+2016,California,Varroa mites,42.2
+2016,California,Other pests/parasites,17.8
+2016,California,Disesases,8.5
+2016,California,Pesticides,18.8
+2016,California,Other,10.4
+2016,California,Unknown,6.9
+2016,Colorado,Varroa mites,49.3
+2016,Colorado,Other pests/parasites,22.4
+2016,Colorado,Disesases,16.8
+2016,Colorado,Pesticides,24.6
+2016,Colorado,Other,10.6
+2016,Colorado,Unknown,0.1
+2016,Connecticut,Varroa mites,18.8
+2016,Connecticut,Other pests/parasites,1.6
+2016,Connecticut,Pesticides,0.2
+2016,Connecticut,Other,5
+2016,Connecticut,Unknown,0.8
+2016,Florida,Varroa mites,45.1
+2016,Florida,Other pests/parasites,23.4
+2016,Florida,Disesases,2.7
+2016,Florida,Pesticides,9.9
+2016,Florida,Other,8.5
+2016,Florida,Unknown,1.8
+2016,Georgia,Varroa mites,30.7
+2016,Georgia,Other pests/parasites,16.4
+2016,Georgia,Disesases,2.4
+2016,Georgia,Pesticides,12.1
+2016,Georgia,Other,7.6
+2016,Georgia,Unknown,4.5
+2016,Hawaii,Varroa mites,67.8
+2016,Hawaii,Other pests/parasites,75.3
+2016,Hawaii,Disesases,0.1
+2016,Hawaii,Pesticides,0.8
+2016,Idaho,Varroa mites,25.3
+2016,Idaho,Other pests/parasites,4.7
+2016,Idaho,Disesases,4.5
+2016,Idaho,Pesticides,7.6
+2016,Idaho,Other,6
+2016,Idaho,Unknown,3.3
+2016,Illinois,Varroa mites,17.4
+2016,Illinois,Other pests/parasites,7.9
+2016,Illinois,Disesases,0.7
+2016,Illinois,Pesticides,4.3
+2016,Illinois,Other,2.9
+2016,Illinois,Unknown,1.6
+2016,Indiana,Varroa mites,50.4
+2016,Indiana,Other pests/parasites,12.4
+2016,Indiana,Disesases,1.2
+2016,Indiana,Pesticides,0.6
+2016,Indiana,Other,2.5
+2016,Indiana,Unknown,1.2
+2016,Iowa,Varroa mites,32.6
+2016,Iowa,Other pests/parasites,3.4
+2016,Iowa,Disesases,0.8
+2016,Iowa,Pesticides,16.7
+2016,Iowa,Other,2.4
+2016,Iowa,Unknown,5.6
+2016,Kansas,Varroa mites,42.8
+2016,Kansas,Other pests/parasites,25.5
+2016,Kansas,Disesases,14.1
+2016,Kansas,Pesticides,29.1
+2016,Kansas,Other,4.5
+2016,Kansas,Unknown,2.6
+2016,Kentucky,Varroa mites,42.3
+2016,Kentucky,Other pests/parasites,25.7
+2016,Kentucky,Disesases,0.9
+2016,Kentucky,Pesticides,11.5
+2016,Kentucky,Other,7.4
+2016,Kentucky,Unknown,4.5
+2016,Louisiana,Varroa mites,39.5
+2016,Louisiana,Other pests/parasites,26.1
+2016,Louisiana,Pesticides,1.6
+2016,Louisiana,Other,9.6
+2016,Louisiana,Unknown,0.7
+2016,Maine,Varroa mites,9.3
+2016,Maine,Other pests/parasites,0.1
+2016,Maine,Disesases,0.2
+2016,Maine,Other,0.6
+2016,Maryland,Varroa mites,10.8
+2016,Maryland,Other pests/parasites,4.8
+2016,Maryland,Disesases,0.1
+2016,Maryland,Pesticides,0.7
+2016,Maryland,Other,0.6
+2016,Maryland,Unknown,1.6
+2016,Massachusetts,Varroa mites,14.1
+2016,Massachusetts,Other pests/parasites,8.7
+2016,Massachusetts,Disesases,6.8
+2016,Massachusetts,Pesticides,0.1
+2016,Massachusetts,Other,3.4
+2016,Massachusetts,Unknown,7.9
+2016,Michigan,Varroa mites,64.1
+2016,Michigan,Other pests/parasites,25.1
+2016,Michigan,Disesases,0.3
+2016,Michigan,Pesticides,9.1
+2016,Michigan,Other,6.5
+2016,Michigan,Unknown,2.7
+2016,Minnesota,Varroa mites,47.2
+2016,Minnesota,Other pests/parasites,14.6
+2016,Minnesota,Disesases,6.2
+2016,Minnesota,Pesticides,22.4
+2016,Minnesota,Other,17.8
+2016,Minnesota,Unknown,8.9
+2016,Mississippi,Varroa mites,27.5
+2016,Mississippi,Other pests/parasites,3.5
+2016,Mississippi,Disesases,1.6
+2016,Mississippi,Pesticides,1.8
+2016,Mississippi,Other,5
+2016,Mississippi,Unknown,4.7
+2016,Missouri,Varroa mites,13.3
+2016,Missouri,Other pests/parasites,7.7
+2016,Missouri,Disesases,1
+2016,Missouri,Pesticides,0.1
+2016,Missouri,Other,3.1
+2016,Missouri,Unknown,0.7
+2016,Montana,Varroa mites,41.9
+2016,Montana,Other pests/parasites,8.8
+2016,Montana,Disesases,7
+2016,Montana,Pesticides,6.9
+2016,Montana,Other,6.1
+2016,Montana,Unknown,1.4
+2016,Nebraska,Varroa mites,20.4
+2016,Nebraska,Other pests/parasites,1.6
+2016,Nebraska,Disesases,0.1
+2016,Nebraska,Pesticides,10.2
+2016,Nebraska,Other,1.6
+2016,Nebraska,Unknown,0.1
+2016,New Jersey,Varroa mites,20.2
+2016,New Jersey,Other pests/parasites,7.1
+2016,New Jersey,Disesases,1.2
+2016,New Jersey,Pesticides,8.5
+2016,New Jersey,Other,1.3
+2016,New Jersey,Unknown,0.3
+2016,New Mexico,Varroa mites,59.5
+2016,New Mexico,Other pests/parasites,55.4
+2016,New Mexico,Disesases,55.2
+2016,New Mexico,Pesticides,24.1
+2016,New Mexico,Other,1.7
+2016,New Mexico,Unknown,0.7
+2016,New York,Varroa mites,37.4
+2016,New York,Other pests/parasites,9
+2016,New York,Disesases,5.5
+2016,New York,Pesticides,5.2
+2016,New York,Other,24.7
+2016,New York,Unknown,2.6
+2016,North Carolina,Varroa mites,27.8
+2016,North Carolina,Other pests/parasites,13.4
+2016,North Carolina,Disesases,0.1
+2016,North Carolina,Pesticides,2.9
+2016,North Carolina,Other,13.4
+2016,North Carolina,Unknown,3
+2016,North Dakota,Varroa mites,38
+2016,North Dakota,Other pests/parasites,11.8
+2016,North Dakota,Disesases,6.3
+2016,North Dakota,Pesticides,12.9
+2016,North Dakota,Other,9.9
+2016,North Dakota,Unknown,3.1
+2016,Ohio,Varroa mites,60.6
+2016,Ohio,Other pests/parasites,10.6
+2016,Ohio,Disesases,2.3
+2016,Ohio,Pesticides,2.9
+2016,Ohio,Other,3.6
+2016,Ohio,Unknown,3.2
+2016,Oklahoma,Varroa mites,7.5
+2016,Oklahoma,Other pests/parasites,6.5
+2016,Oklahoma,Disesases,0.3
+2016,Oklahoma,Pesticides,0.7
+2016,Oklahoma,Other,1.4
+2016,Oklahoma,Unknown,21.8
+2016,Oregon,Varroa mites,52.9
+2016,Oregon,Other pests/parasites,18.5
+2016,Oregon,Disesases,12.5
+2016,Oregon,Pesticides,9.6
+2016,Oregon,Other,5.1
+2016,Oregon,Unknown,1.5
+2016,Pennsylvania,Varroa mites,27.3
+2016,Pennsylvania,Other pests/parasites,7.7
+2016,Pennsylvania,Disesases,1.6
+2016,Pennsylvania,Pesticides,4.3
+2016,Pennsylvania,Other,2.8
+2016,Pennsylvania,Unknown,1.2
+2016,South Carolina,Varroa mites,20.4
+2016,South Carolina,Other pests/parasites,18.8
+2016,South Carolina,Disesases,0.1
+2016,South Carolina,Pesticides,2.6
+2016,South Carolina,Other,2.6
+2016,South Carolina,Unknown,1.9
+2016,South Dakota,Varroa mites,48.8
+2016,South Dakota,Other pests/parasites,19.5
+2016,South Dakota,Disesases,14.2
+2016,South Dakota,Pesticides,22.7
+2016,South Dakota,Other,4.6
+2016,South Dakota,Unknown,2.8
+2016,Tennessee,Varroa mites,22.5
+2016,Tennessee,Other pests/parasites,23.1
+2016,Tennessee,Disesases,1.3
+2016,Tennessee,Pesticides,2.4
+2016,Tennessee,Other,6.2
+2016,Tennessee,Unknown,2
+2016,Texas,Varroa mites,47.2
+2016,Texas,Other pests/parasites,11.4
+2016,Texas,Disesases,1.7
+2016,Texas,Pesticides,31.4
+2016,Texas,Other,3.7
+2016,Texas,Unknown,4.1
+2016,Utah,Varroa mites,32.1
+2016,Utah,Other pests/parasites,20.2
+2016,Utah,Disesases,0.6
+2016,Utah,Pesticides,21.8
+2016,Utah,Other,2.5
+2016,Utah,Unknown,1.7
+2016,Vermont,Varroa mites,5.6
+2016,Vermont,Other pests/parasites,8
+2016,Vermont,Disesases,1.7
+2016,Vermont,Other,2.4
+2016,Vermont,Unknown,0.8
+2016,Virginia,Varroa mites,39.1
+2016,Virginia,Other pests/parasites,24.1
+2016,Virginia,Disesases,1.1
+2016,Virginia,Pesticides,2.3
+2016,Virginia,Other,5.3
+2016,Virginia,Unknown,3.6
+2016,Washington,Varroa mites,65.2
+2016,Washington,Other pests/parasites,1.4
+2016,Washington,Disesases,0.9
+2016,Washington,Pesticides,19.1
+2016,Washington,Other,4.3
+2016,Washington,Unknown,0.1
+2016,West Virginia,Varroa mites,41.5
+2016,West Virginia,Other pests/parasites,7.1
+2016,West Virginia,Disesases,3.6
+2016,West Virginia,Pesticides,0.1
+2016,West Virginia,Other,8.1
+2016,West Virginia,Unknown,0.4
+2016,Wisconsin,Varroa mites,31.5
+2016,Wisconsin,Other pests/parasites,13.6
+2016,Wisconsin,Disesases,10.8
+2016,Wisconsin,Pesticides,15.8
+2016,Wisconsin,Other,5.1
+2016,Wisconsin,Unknown,11.1
+2016,Wyoming,Varroa mites,38.6
+2016,Wyoming,Other pests/parasites,3.1
+2016,Wyoming,Disesases,0.5
+2016,Wyoming,Pesticides,2.6
+2016,Wyoming,Other,3.4
+2016,Wyoming,Unknown,0.3
+2016,Other States,Varroa mites,7.8
+2016,Other States,Other pests/parasites,1.6
+2016,Other States,Disesases,0.5
+2016,Other States,Other,2.3
+2016,Other States,Unknown,9.8
+2016,United States,Varroa mites,46.1
+2016,United States,Other pests/parasites,15.6
+2016,United States,Disesases,6.7
+2016,United States,Pesticides,15.1
+2016,United States,Other,9.3
+2016,United States,Unknown,4.5
+2016,Alabama,Varroa mites,12.3
+2016,Alabama,Other pests/parasites,9.9
+2016,Alabama,Disesases,0.2
+2016,Alabama,Pesticides,2.4
+2016,Alabama,Other,6.7
+2016,Alabama,Unknown,3.3
+2016,Arizona,Varroa mites,98.8
+2016,Arizona,Other pests/parasites,15.5
+2016,Arizona,Disesases,2.3
+2016,Arizona,Pesticides,6.5
+2016,Arizona,Other,4.3
+2016,Arizona,Unknown,3.2
+2016,Arkansas,Varroa mites,21.1
+2016,Arkansas,Other pests/parasites,4.8
+2016,Arkansas,Pesticides,1.3
+2016,Arkansas,Other,1.1
+2016,Arkansas,Unknown,3.3
+2016,California,Varroa mites,41.9
+2016,California,Other pests/parasites,13.7
+2016,California,Disesases,8
+2016,California,Pesticides,9.1
+2016,California,Other,9.6
+2016,California,Unknown,3.5
+2016,Colorado,Varroa mites,32.4
+2016,Colorado,Other pests/parasites,1.3
+2016,Colorado,Disesases,0.1
+2016,Colorado,Pesticides,3.1
+2016,Colorado,Other,13
+2016,Colorado,Unknown,0.1
+2016,Connecticut,Varroa mites,14.7
+2016,Connecticut,Other pests/parasites,6.6
+2016,Connecticut,Disesases,1.1
+2016,Connecticut,Pesticides,1
+2016,Connecticut,Other,5.8
+2016,Connecticut,Unknown,3.2
+2016,Florida,Varroa mites,30.9
+2016,Florida,Other pests/parasites,27.1
+2016,Florida,Disesases,7.7
+2016,Florida,Pesticides,17
+2016,Florida,Other,13.6
+2016,Florida,Unknown,6.5
+2016,Georgia,Varroa mites,43.6
+2016,Georgia,Other pests/parasites,8.6
+2016,Georgia,Disesases,3.7
+2016,Georgia,Pesticides,7.6
+2016,Georgia,Other,4.1
+2016,Georgia,Unknown,2.5
+2016,Hawaii,Varroa mites,39.9
+2016,Hawaii,Other pests/parasites,40.8
+2016,Hawaii,Pesticides,0.1
+2016,Hawaii,Other,0.2
+2016,Hawaii,Unknown,0.1
+2016,Idaho,Varroa mites,31.9
+2016,Idaho,Other pests/parasites,0.8
+2016,Idaho,Disesases,4.8
+2016,Idaho,Pesticides,0.2
+2016,Idaho,Other,4.2
+2016,Idaho,Unknown,3
+2016,Illinois,Varroa mites,27.8
+2016,Illinois,Other pests/parasites,11.7
+2016,Illinois,Disesases,1.2
+2016,Illinois,Pesticides,5.6
+2016,Illinois,Other,3.9
+2016,Illinois,Unknown,4.8
+2016,Indiana,Varroa mites,28.2
+2016,Indiana,Other pests/parasites,9.6
+2016,Indiana,Disesases,0.2
+2016,Indiana,Pesticides,1.4
+2016,Indiana,Other,1
+2016,Indiana,Unknown,3.8
+2016,Iowa,Varroa mites,18.7
+2016,Iowa,Other pests/parasites,9.8
+2016,Iowa,Disesases,8.9
+2016,Iowa,Pesticides,9
+2016,Iowa,Other,11.4
+2016,Iowa,Unknown,6.3
+2016,Kansas,Varroa mites,29.2
+2016,Kansas,Other pests/parasites,8.3
+2016,Kansas,Disesases,0.3
+2016,Kansas,Pesticides,3.1
+2016,Kansas,Other,5.1
+2016,Kansas,Unknown,1.4
+2016,Kentucky,Varroa mites,48.2
+2016,Kentucky,Other pests/parasites,22.3
+2016,Kentucky,Disesases,3.3
+2016,Kentucky,Pesticides,3
+2016,Kentucky,Other,10.3
+2016,Kentucky,Unknown,5.7
+2016,Louisiana,Varroa mites,2.9
+2016,Louisiana,Other pests/parasites,1
+2016,Louisiana,Disesases,1
+2016,Louisiana,Pesticides,0.1
+2016,Louisiana,Other,0.7
+2016,Louisiana,Unknown,1.2
+2016,Maine,Varroa mites,10.7
+2016,Maine,Other pests/parasites,0.8
+2016,Maine,Disesases,0.1
+2016,Maine,Other,5.8
+2016,Maine,Unknown,0.1
+2016,Maryland,Varroa mites,23.8
+2016,Maryland,Other pests/parasites,8.3
+2016,Maryland,Disesases,4.5
+2016,Maryland,Pesticides,4.6
+2016,Maryland,Other,5.8
+2016,Maryland,Unknown,0.6
+2016,Massachusetts,Varroa mites,6.1
+2016,Massachusetts,Other pests/parasites,2.6
+2016,Massachusetts,Disesases,0.4
+2016,Massachusetts,Pesticides,0.4
+2016,Massachusetts,Other,0.7
+2016,Massachusetts,Unknown,4.2
+2016,Michigan,Varroa mites,23.9
+2016,Michigan,Other pests/parasites,1.5
+2016,Michigan,Disesases,0.1
+2016,Michigan,Pesticides,2.7
+2016,Michigan,Other,4
+2016,Michigan,Unknown,0.6
+2016,Minnesota,Varroa mites,27.5
+2016,Minnesota,Other pests/parasites,7.7
+2016,Minnesota,Disesases,3.1
+2016,Minnesota,Pesticides,17.6
+2016,Minnesota,Other,5
+2016,Minnesota,Unknown,8.9
+2016,Mississippi,Varroa mites,21.9
+2016,Mississippi,Other pests/parasites,6
+2016,Mississippi,Disesases,0.1
+2016,Mississippi,Other,2.1
+2016,Mississippi,Unknown,2.8
+2016,Missouri,Varroa mites,16.1
+2016,Missouri,Other pests/parasites,12.6
+2016,Missouri,Disesases,0.2
+2016,Missouri,Other,1.5
+2016,Missouri,Unknown,0.7
+2016,Montana,Varroa mites,59.1
+2016,Montana,Other pests/parasites,39.4
+2016,Montana,Disesases,32.9
+2016,Montana,Pesticides,13.7
+2016,Montana,Other,33.3
+2016,Montana,Unknown,33.1
+2016,Nebraska,Varroa mites,10.5
+2016,Nebraska,Other pests/parasites,1.4
+2016,Nebraska,Disesases,0.2
+2016,Nebraska,Pesticides,1.2
+2016,Nebraska,Other,0.4
+2016,Nebraska,Unknown,1.5
+2016,New Jersey,Varroa mites,28.6
+2016,New Jersey,Other pests/parasites,11.3
+2016,New Jersey,Disesases,0.4
+2016,New Jersey,Pesticides,1.9
+2016,New Jersey,Other,3.4
+2016,New Jersey,Unknown,8.6
+2016,New Mexico,Varroa mites,46.2
+2016,New Mexico,Other pests/parasites,0.3
+2016,New Mexico,Disesases,7.2
+2016,New Mexico,Other,0.8
+2016,New Mexico,Unknown,0.3
+2016,New York,Varroa mites,27.8
+2016,New York,Other pests/parasites,2.2
+2016,New York,Disesases,3.6
+2016,New York,Pesticides,12.5
+2016,New York,Other,2.2
+2016,New York,Unknown,2.1
+2016,North Carolina,Varroa mites,24
+2016,North Carolina,Other pests/parasites,7.7
+2016,North Carolina,Disesases,1.8
+2016,North Carolina,Other,12.5
+2016,North Carolina,Unknown,1.3
+2016,North Dakota,Varroa mites,23.5
+2016,North Dakota,Other pests/parasites,7.9
+2016,North Dakota,Disesases,1.5
+2016,North Dakota,Pesticides,0.4
+2016,North Dakota,Other,2.6
+2016,North Dakota,Unknown,2.2
+2016,Ohio,Varroa mites,42
+2016,Ohio,Other pests/parasites,18.1
+2016,Ohio,Disesases,0.8
+2016,Ohio,Pesticides,4.2
+2016,Ohio,Other,11.2
+2016,Ohio,Unknown,10.9
+2016,Oklahoma,Varroa mites,4.9
+2016,Oklahoma,Other pests/parasites,0.5
+2016,Oklahoma,Pesticides,0.1
+2016,Oklahoma,Other,0.1
+2016,Oklahoma,Unknown,0.7
+2016,Oregon,Varroa mites,25.5
+2016,Oregon,Other pests/parasites,2.8
+2016,Oregon,Disesases,13
+2016,Oregon,Pesticides,2.8
+2016,Oregon,Other,2.6
+2016,Oregon,Unknown,1.3
+2016,Pennsylvania,Varroa mites,18.7
+2016,Pennsylvania,Other pests/parasites,2.6
+2016,Pennsylvania,Disesases,1
+2016,Pennsylvania,Pesticides,2.8
+2016,Pennsylvania,Other,4.9
+2016,Pennsylvania,Unknown,3.1
+2016,South Carolina,Varroa mites,29
+2016,South Carolina,Other pests/parasites,27.1
+2016,South Carolina,Disesases,23.3
+2016,South Carolina,Pesticides,24.6
+2016,South Carolina,Other,25.9
+2016,South Carolina,Unknown,1.9
+2016,South Dakota,Varroa mites,48.9
+2016,South Dakota,Other pests/parasites,5.3
+2016,South Dakota,Disesases,0.3
+2016,South Dakota,Pesticides,6
+2016,South Dakota,Other,1
+2016,South Dakota,Unknown,0.3
+2016,Tennessee,Varroa mites,19.9
+2016,Tennessee,Other pests/parasites,21.6
+2016,Tennessee,Pesticides,1.1
+2016,Tennessee,Other,2.2
+2016,Tennessee,Unknown,3.1
+2016,Texas,Varroa mites,33.1
+2016,Texas,Other pests/parasites,17.5
+2016,Texas,Disesases,3.2
+2016,Texas,Pesticides,3.6
+2016,Texas,Other,2.8
+2016,Texas,Unknown,1.4
+2016,Utah,Varroa mites,26.4
+2016,Utah,Other pests/parasites,0.1
+2016,Utah,Disesases,0.2
+2016,Utah,Pesticides,0.9
+2016,Utah,Other,0.7
+2016,Utah,Unknown,0.3
+2016,Vermont,Varroa mites,44.5
+2016,Vermont,Other pests/parasites,41.3
+2016,Vermont,Disesases,41.2
+2016,Vermont,Pesticides,41
+2016,Vermont,Other,0.4
+2016,Virginia,Varroa mites,31.4
+2016,Virginia,Other pests/parasites,19.9
+2016,Virginia,Disesases,2
+2016,Virginia,Other,1.8
+2016,Virginia,Unknown,5.1
+2016,Washington,Varroa mites,21.4
+2016,Washington,Other pests/parasites,4.6
+2016,Washington,Disesases,3.7
+2016,Washington,Pesticides,9.1
+2016,Washington,Other,4.5
+2016,Washington,Unknown,0.3
+2016,West Virginia,Varroa mites,23.8
+2016,West Virginia,Other pests/parasites,2.3
+2016,West Virginia,Disesases,1.1
+2016,West Virginia,Pesticides,1.1
+2016,West Virginia,Other,4.3
+2016,West Virginia,Unknown,2.8
+2016,Wisconsin,Varroa mites,69.3
+2016,Wisconsin,Other pests/parasites,12.2
+2016,Wisconsin,Disesases,10
+2016,Wisconsin,Pesticides,10.6
+2016,Wisconsin,Other,10.6
+2016,Wisconsin,Unknown,46.2
+2016,Wyoming,Varroa mites,32.2
+2016,Wyoming,Other pests/parasites,1.6
+2016,Wyoming,Disesases,3.1
+2016,Wyoming,Pesticides,5.2
+2016,Wyoming,Other,1.1
+2016,Other States,Varroa mites,24.1
+2016,Other States,Other pests/parasites,9.3
+2016,Other States,Disesases,9.3
+2016,Other States,Pesticides,9.6
+2016,Other States,Other,2.3
+2016,Other States,Unknown,1.4
+2016,United States,Varroa mites,46.6
+2016,United States,Other pests/parasites,16.9
+2016,United States,Disesases,8.3
+2016,United States,Pesticides,9.4
+2016,United States,Other,10.1
+2016,United States,Unknown,6.4

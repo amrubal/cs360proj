@@ -1,0 +1,791 @@
+year,state,id,value
+2019,Alabama,Varroa mites,27.2
+2019,Alabama,Other pests/parasites,22.7
+2019,Alabama,Disesases,1.8
+2019,Alabama,Pesticides,0.3
+2019,Alabama,Other,3.1
+2019,Alabama,Unknown,9
+2019,Arizona,Varroa mites,25.8
+2019,Arizona,Other pests/parasites,7.9
+2019,Arizona,Disesases,6.5
+2019,Arizona,Pesticides,16.2
+2019,Arizona,Other,8.4
+2019,Arizona,Unknown,0.2
+2019,Arkansas,Varroa mites,19.5
+2019,Arkansas,Other pests/parasites,1.5
+2019,Arkansas,Disesases,3.3
+2019,Arkansas,Pesticides,55.3
+2019,Arkansas,Other,0.7
+2019,Arkansas,Unknown,2.9
+2019,California,Varroa mites,43.5
+2019,California,Other pests/parasites,13.4
+2019,California,Disesases,6.4
+2019,California,Pesticides,12.3
+2019,California,Other,8.7
+2019,California,Unknown,5.6
+2019,Colorado,Varroa mites,11.2
+2019,Colorado,Other pests/parasites,0.3
+2019,Colorado,Other,2.5
+2019,Colorado,Unknown,0.6
+2019,Connecticut,Varroa mites,10.1
+2019,Connecticut,Other pests/parasites,1.3
+2019,Connecticut,Other,3.6
+2019,Connecticut,Unknown,1.7
+2019,Florida,Varroa mites,46.9
+2019,Florida,Other pests/parasites,24.8
+2019,Florida,Disesases,5.5
+2019,Florida,Pesticides,22.9
+2019,Florida,Other,7.4
+2019,Florida,Unknown,5.5
+2019,Georgia,Varroa mites,69.6
+2019,Georgia,Other pests/parasites,17.8
+2019,Georgia,Disesases,7.4
+2019,Georgia,Pesticides,9.6
+2019,Georgia,Other,10.6
+2019,Georgia,Unknown,4.9
+2019,Hawaii,Varroa mites,72.1
+2019,Hawaii,Other pests/parasites,64.9
+2019,Hawaii,Disesases,0.1
+2019,Hawaii,Pesticides,0.7
+2019,Hawaii,Other,2.9
+2019,Idaho,Varroa mites,24.5
+2019,Idaho,Other pests/parasites,8
+2019,Idaho,Disesases,8
+2019,Idaho,Pesticides,9.2
+2019,Idaho,Other,8.6
+2019,Illinois,Varroa mites,33.3
+2019,Illinois,Other pests/parasites,14.7
+2019,Illinois,Disesases,3.1
+2019,Illinois,Pesticides,0.7
+2019,Illinois,Other,15.5
+2019,Illinois,Unknown,10.1
+2019,Indiana,Varroa mites,15.6
+2019,Indiana,Other pests/parasites,8.8
+2019,Indiana,Disesases,2.6
+2019,Indiana,Pesticides,5.5
+2019,Indiana,Other,7.1
+2019,Indiana,Unknown,1.7
+2019,Iowa,Varroa mites,34.8
+2019,Iowa,Other pests/parasites,1.7
+2019,Iowa,Disesases,0.6
+2019,Iowa,Pesticides,0.3
+2019,Iowa,Other,7.7
+2019,Iowa,Unknown,3.5
+2019,Kansas,Varroa mites,102
+2019,Kansas,Other pests/parasites,7.8
+2019,Kansas,Disesases,2.5
+2019,Kansas,Pesticides,12.2
+2019,Kansas,Other,21.6
+2019,Kansas,Unknown,4
+2019,Kentucky,Varroa mites,21.6
+2019,Kentucky,Other pests/parasites,12.9
+2019,Kentucky,Disesases,0.1
+2019,Kentucky,Pesticides,5.3
+2019,Kentucky,Other,10.7
+2019,Kentucky,Unknown,4.6
+2019,Louisiana,Varroa mites,57.8
+2019,Louisiana,Other pests/parasites,1.3
+2019,Louisiana,Disesases,0.1
+2019,Louisiana,Pesticides,0.3
+2019,Louisiana,Other,1
+2019,Louisiana,Unknown,0.7
+2019,Maine,Varroa mites,2.3
+2019,Maine,Other pests/parasites,0.1
+2019,Maine,Other,1.4
+2019,Maine,Unknown,0.8
+2019,Maryland,Varroa mites,12.6
+2019,Maryland,Other pests/parasites,5.1
+2019,Maryland,Disesases,0.2
+2019,Maryland,Other,10.1
+2019,Maryland,Unknown,2.4
+2019,Massachusetts,Varroa mites,10.3
+2019,Massachusetts,Pesticides,4.3
+2019,Massachusetts,Other,6.3
+2019,Massachusetts,Unknown,0.9
+2019,Michigan,Varroa mites,18.2
+2019,Michigan,Other pests/parasites,5.8
+2019,Michigan,Disesases,1.5
+2019,Michigan,Pesticides,0.2
+2019,Michigan,Other,12.2
+2019,Michigan,Unknown,0.7
+2019,Minnesota,Varroa mites,1.3
+2019,Minnesota,Other pests/parasites,0.2
+2019,Minnesota,Disesases,1.9
+2019,Minnesota,Other,2
+2019,Minnesota,Unknown,0.8
+2019,Mississippi,Varroa mites,14.6
+2019,Mississippi,Other pests/parasites,71
+2019,Mississippi,Disesases,64.8
+2019,Mississippi,Pesticides,48.4
+2019,Mississippi,Other,1.9
+2019,Mississippi,Unknown,5.5
+2019,Missouri,Varroa mites,5.4
+2019,Missouri,Other pests/parasites,2.3
+2019,Missouri,Disesases,1.9
+2019,Missouri,Pesticides,0.5
+2019,Missouri,Other,5.4
+2019,Missouri,Unknown,3.2
+2019,Montana,Varroa mites,15.1
+2019,Montana,Pesticides,0.8
+2019,Montana,Other,0.8
+2019,Montana,Unknown,1.1
+2019,Nebraska,Varroa mites,32.3
+2019,Nebraska,Other pests/parasites,1.3
+2019,Nebraska,Disesases,32
+2019,Nebraska,Pesticides,0.8
+2019,Nebraska,Other,2.2
+2019,Nebraska,Unknown,0.1
+2019,New Jersey,Varroa mites,15.3
+2019,New Jersey,Other pests/parasites,4.4
+2019,New Jersey,Other,3.5
+2019,New Jersey,Unknown,0.6
+2019,New Mexico,Varroa mites,3.5
+2019,New Mexico,Other pests/parasites,1.1
+2019,New Mexico,Disesases,0.6
+2019,New Mexico,Other,1.4
+2019,New Mexico,Unknown,0.3
+2019,New York,Varroa mites,10.6
+2019,New York,Other pests/parasites,2.5
+2019,New York,Disesases,1.7
+2019,New York,Pesticides,1.7
+2019,New York,Other,7.7
+2019,New York,Unknown,9
+2019,North Carolina,Varroa mites,16.4
+2019,North Carolina,Other pests/parasites,2
+2019,North Carolina,Disesases,0.2
+2019,North Carolina,Pesticides,0.7
+2019,North Carolina,Other,2.2
+2019,North Carolina,Unknown,3.4
+2019,North Dakota,Varroa mites,6.9
+2019,North Dakota,Pesticides,6.5
+2019,North Dakota,Other,0.4
+2019,North Dakota,Unknown,1.3
+2019,Ohio,Varroa mites,49.3
+2019,Ohio,Other pests/parasites,9.9
+2019,Ohio,Disesases,11.1
+2019,Ohio,Pesticides,1.1
+2019,Ohio,Other,6.7
+2019,Ohio,Unknown,3.1
+2019,Oklahoma,Varroa mites,7.7
+2019,Oklahoma,Other pests/parasites,0.3
+2019,Oregon,Varroa mites,18
+2019,Oregon,Other pests/parasites,0.1
+2019,Oregon,Disesases,0.2
+2019,Oregon,Pesticides,0.2
+2019,Oregon,Other,2.7
+2019,Oregon,Unknown,0.5
+2019,Pennsylvania,Varroa mites,15.3
+2019,Pennsylvania,Other pests/parasites,4.6
+2019,Pennsylvania,Disesases,3.7
+2019,Pennsylvania,Pesticides,4
+2019,Pennsylvania,Other,7.5
+2019,Pennsylvania,Unknown,9.5
+2019,South Carolina,Varroa mites,18.5
+2019,South Carolina,Other pests/parasites,14.5
+2019,South Carolina,Pesticides,1.7
+2019,South Carolina,Other,12.4
+2019,South Carolina,Unknown,1
+2019,South Dakota,Varroa mites,0.8
+2019,South Dakota,Pesticides,2.5
+2019,South Dakota,Other,0.8
+2019,South Dakota,Unknown,2.2
+2019,Tennessee,Varroa mites,62.8
+2019,Tennessee,Other pests/parasites,23.6
+2019,Tennessee,Disesases,5.1
+2019,Tennessee,Pesticides,0.9
+2019,Tennessee,Other,7.7
+2019,Tennessee,Unknown,7.1
+2019,Texas,Varroa mites,26.1
+2019,Texas,Other pests/parasites,6.5
+2019,Texas,Disesases,5.3
+2019,Texas,Pesticides,8.3
+2019,Texas,Other,6.9
+2019,Texas,Unknown,3
+2019,Utah,Varroa mites,22.9
+2019,Utah,Disesases,0.1
+2019,Utah,Other,0.3
+2019,Utah,Unknown,8.8
+2019,Vermont,Varroa mites,6.2
+2019,Vermont,Other pests/parasites,0.1
+2019,Vermont,Disesases,2.4
+2019,Vermont,Other,0.2
+2019,Vermont,Unknown,1.2
+2019,Virginia,Varroa mites,16.6
+2019,Virginia,Other pests/parasites,12.8
+2019,Virginia,Disesases,0.8
+2019,Virginia,Pesticides,0.3
+2019,Virginia,Other,3.9
+2019,Virginia,Unknown,9.3
+2019,Washington,Varroa mites,22.3
+2019,Washington,Other pests/parasites,0.8
+2019,Washington,Disesases,0.6
+2019,Washington,Pesticides,0.3
+2019,Washington,Other,0.8
+2019,Washington,Unknown,0.2
+2019,West Virginia,Varroa mites,10.3
+2019,West Virginia,Other pests/parasites,3.2
+2019,West Virginia,Disesases,1.1
+2019,West Virginia,Pesticides,0.2
+2019,West Virginia,Other,5
+2019,West Virginia,Unknown,1.3
+2019,Wisconsin,Varroa mites,15.9
+2019,Wisconsin,Other pests/parasites,3.2
+2019,Wisconsin,Disesases,0.7
+2019,Wisconsin,Pesticides,1.1
+2019,Wisconsin,Other,13.8
+2019,Wisconsin,Unknown,5
+2019,Wyoming,Varroa mites,0.7
+2019,Wyoming,Disesases,0.1
+2019,Wyoming,Other,0.5
+2019,Wyoming,Unknown,2.3
+2019,Other States,Varroa mites,6.9
+2019,Other States,Other pests/parasites,1.8
+2019,Other States,Disesases,0.3
+2019,Other States,Other,2.1
+2019,Other States,Unknown,1.6
+2019,United States,Varroa mites,45.6
+2019,United States,Other pests/parasites,14.8
+2019,United States,Disesases,7.1
+2019,United States,Pesticides,13.6
+2019,United States,Other,9
+2019,United States,Unknown,5.2
+2019,Alabama,Varroa mites,30.6
+2019,Alabama,Other pests/parasites,24.6
+2019,Alabama,Disesases,2.9
+2019,Alabama,Pesticides,0.2
+2019,Alabama,Other,9.7
+2019,Alabama,Unknown,6.4
+2019,Arizona,Varroa mites,29
+2019,Arizona,Other pests/parasites,9.9
+2019,Arizona,Disesases,2.7
+2019,Arizona,Pesticides,11.4
+2019,Arizona,Other,13.2
+2019,Arizona,Unknown,0.6
+2019,Arkansas,Varroa mites,53.2
+2019,Arkansas,Other pests/parasites,19.7
+2019,Arkansas,Disesases,6.8
+2019,Arkansas,Pesticides,50.5
+2019,Arkansas,Other,6.9
+2019,Arkansas,Unknown,39.3
+2019,California,Varroa mites,49
+2019,California,Other pests/parasites,11.5
+2019,California,Disesases,8.7
+2019,California,Pesticides,16
+2019,California,Other,11.1
+2019,California,Unknown,3.2
+2019,Colorado,Varroa mites,79.8
+2019,Colorado,Other pests/parasites,12.5
+2019,Colorado,Disesases,4.8
+2019,Colorado,Pesticides,10.2
+2019,Colorado,Other,9.4
+2019,Colorado,Unknown,1
+2019,Connecticut,Varroa mites,24.3
+2019,Connecticut,Other pests/parasites,6.9
+2019,Connecticut,Disesases,2.4
+2019,Connecticut,Other,3.9
+2019,Connecticut,Unknown,0.5
+2019,Florida,Varroa mites,44.9
+2019,Florida,Other pests/parasites,20.7
+2019,Florida,Disesases,6.3
+2019,Florida,Pesticides,18.2
+2019,Florida,Other,11.7
+2019,Florida,Unknown,10.8
+2019,Georgia,Varroa mites,52.5
+2019,Georgia,Other pests/parasites,18.6
+2019,Georgia,Disesases,1.6
+2019,Georgia,Pesticides,25.8
+2019,Georgia,Other,17.1
+2019,Georgia,Unknown,4.6
+2019,Hawaii,Varroa mites,37.2
+2019,Hawaii,Other pests/parasites,39
+2019,Hawaii,Disesases,0.3
+2019,Hawaii,Other,1.3
+2019,Hawaii,Unknown,0.2
+2019,Idaho,Varroa mites,59.9
+2019,Idaho,Other pests/parasites,15.4
+2019,Idaho,Disesases,21.7
+2019,Idaho,Pesticides,9.9
+2019,Idaho,Other,18.5
+2019,Idaho,Unknown,0.8
+2019,Illinois,Varroa mites,35.9
+2019,Illinois,Other pests/parasites,8.3
+2019,Illinois,Disesases,0.7
+2019,Illinois,Pesticides,2.5
+2019,Illinois,Other,5.5
+2019,Illinois,Unknown,11.5
+2019,Indiana,Varroa mites,55.7
+2019,Indiana,Other pests/parasites,15.2
+2019,Indiana,Disesases,3
+2019,Indiana,Pesticides,23.1
+2019,Indiana,Other,19.2
+2019,Indiana,Unknown,1.4
+2019,Iowa,Varroa mites,39.4
+2019,Iowa,Other pests/parasites,7.1
+2019,Iowa,Disesases,5.8
+2019,Iowa,Pesticides,26.3
+2019,Iowa,Other,27.8
+2019,Iowa,Unknown,3.6
+2019,Kansas,Varroa mites,67.5
+2019,Kansas,Other pests/parasites,33.8
+2019,Kansas,Disesases,21.8
+2019,Kansas,Pesticides,23.9
+2019,Kansas,Other,1.2
+2019,Kansas,Unknown,0.5
+2019,Kentucky,Varroa mites,29.2
+2019,Kentucky,Other pests/parasites,17.6
+2019,Kentucky,Disesases,0.4
+2019,Kentucky,Pesticides,5.2
+2019,Kentucky,Other,7.9
+2019,Kentucky,Unknown,8.6
+2019,Louisiana,Varroa mites,67.1
+2019,Louisiana,Other pests/parasites,66.8
+2019,Louisiana,Disesases,0.4
+2019,Louisiana,Pesticides,57
+2019,Louisiana,Other,2.5
+2019,Louisiana,Unknown,2.7
+2019,Maine,Varroa mites,10.1
+2019,Maine,Other pests/parasites,0.7
+2019,Maine,Disesases,0.1
+2019,Maine,Other,0.2
+2019,Maine,Unknown,0.1
+2019,Maryland,Varroa mites,26.7
+2019,Maryland,Other pests/parasites,2.7
+2019,Maryland,Pesticides,0.3
+2019,Maryland,Other,5.1
+2019,Maryland,Unknown,1.4
+2019,Massachusetts,Varroa mites,13
+2019,Massachusetts,Other pests/parasites,2.9
+2019,Massachusetts,Disesases,0.2
+2019,Massachusetts,Other,0.7
+2019,Massachusetts,Unknown,7.3
+2019,Michigan,Varroa mites,42.7
+2019,Michigan,Other pests/parasites,16.4
+2019,Michigan,Disesases,8.7
+2019,Michigan,Pesticides,7.3
+2019,Michigan,Other,2.1
+2019,Michigan,Unknown,1.5
+2019,Minnesota,Varroa mites,54.9
+2019,Minnesota,Other pests/parasites,8.2
+2019,Minnesota,Disesases,4
+2019,Minnesota,Pesticides,13.4
+2019,Minnesota,Other,6.6
+2019,Minnesota,Unknown,2.1
+2019,Mississippi,Varroa mites,59.1
+2019,Mississippi,Other pests/parasites,45.6
+2019,Mississippi,Disesases,2.4
+2019,Mississippi,Pesticides,25.4
+2019,Mississippi,Other,4
+2019,Mississippi,Unknown,5.1
+2019,Missouri,Varroa mites,18.4
+2019,Missouri,Other pests/parasites,7.1
+2019,Missouri,Disesases,0.4
+2019,Missouri,Pesticides,0.8
+2019,Missouri,Other,2.1
+2019,Missouri,Unknown,0.6
+2019,Montana,Varroa mites,28
+2019,Montana,Other pests/parasites,10
+2019,Montana,Disesases,10.6
+2019,Montana,Pesticides,6.1
+2019,Montana,Other,4.1
+2019,Montana,Unknown,1
+2019,Nebraska,Varroa mites,29.2
+2019,Nebraska,Other pests/parasites,2.7
+2019,Nebraska,Disesases,1.8
+2019,Nebraska,Pesticides,2.8
+2019,Nebraska,Other,7.2
+2019,Nebraska,Unknown,1.9
+2019,New Jersey,Varroa mites,26.1
+2019,New Jersey,Other pests/parasites,2.3
+2019,New Jersey,Disesases,0.3
+2019,New Jersey,Pesticides,0.2
+2019,New Jersey,Other,0.5
+2019,New Jersey,Unknown,0.1
+2019,New Mexico,Varroa mites,39.5
+2019,New Mexico,Other pests/parasites,29.1
+2019,New Mexico,Disesases,0.9
+2019,New Mexico,Other,0.8
+2019,New York,Varroa mites,30.7
+2019,New York,Other pests/parasites,11.5
+2019,New York,Disesases,1.2
+2019,New York,Pesticides,8.2
+2019,New York,Other,2.5
+2019,New York,Unknown,3.8
+2019,North Carolina,Varroa mites,26.9
+2019,North Carolina,Other pests/parasites,11.3
+2019,North Carolina,Disesases,19.7
+2019,North Carolina,Pesticides,4
+2019,North Carolina,Other,9.7
+2019,North Carolina,Unknown,5.7
+2019,North Dakota,Varroa mites,48.4
+2019,North Dakota,Other pests/parasites,10.2
+2019,North Dakota,Disesases,14.7
+2019,North Dakota,Pesticides,9
+2019,North Dakota,Other,23.7
+2019,North Dakota,Unknown,9.3
+2019,Ohio,Varroa mites,40.6
+2019,Ohio,Other pests/parasites,23
+2019,Ohio,Disesases,4.2
+2019,Ohio,Pesticides,1.8
+2019,Ohio,Other,5.9
+2019,Ohio,Unknown,3.9
+2019,Oklahoma,Varroa mites,29
+2019,Oklahoma,Other pests/parasites,1.4
+2019,Oklahoma,Disesases,0.1
+2019,Oklahoma,Pesticides,0.1
+2019,Oklahoma,Other,4.1
+2019,Oklahoma,Unknown,4.4
+2019,Oregon,Varroa mites,35.4
+2019,Oregon,Other pests/parasites,12.8
+2019,Oregon,Disesases,19.8
+2019,Oregon,Pesticides,15.1
+2019,Oregon,Other,16.6
+2019,Oregon,Unknown,0.4
+2019,Pennsylvania,Varroa mites,23.4
+2019,Pennsylvania,Other pests/parasites,8.8
+2019,Pennsylvania,Disesases,1.8
+2019,Pennsylvania,Pesticides,5
+2019,Pennsylvania,Other,1.5
+2019,Pennsylvania,Unknown,5.6
+2019,South Carolina,Varroa mites,44.9
+2019,South Carolina,Other pests/parasites,11.6
+2019,South Carolina,Disesases,0.6
+2019,South Carolina,Pesticides,16.2
+2019,South Carolina,Other,19.6
+2019,South Carolina,Unknown,3.7
+2019,South Dakota,Varroa mites,10.4
+2019,South Dakota,Other pests/parasites,3.5
+2019,South Dakota,Disesases,0.3
+2019,South Dakota,Pesticides,14
+2019,South Dakota,Other,4
+2019,South Dakota,Unknown,1.5
+2019,Tennessee,Varroa mites,51.4
+2019,Tennessee,Other pests/parasites,23.3
+2019,Tennessee,Disesases,0.2
+2019,Tennessee,Pesticides,9.1
+2019,Tennessee,Other,11.5
+2019,Tennessee,Unknown,1.5
+2019,Texas,Varroa mites,21.9
+2019,Texas,Other pests/parasites,18.3
+2019,Texas,Disesases,4.4
+2019,Texas,Pesticides,11.5
+2019,Texas,Other,7.2
+2019,Texas,Unknown,2.1
+2019,Utah,Varroa mites,29.4
+2019,Utah,Other pests/parasites,4.9
+2019,Utah,Disesases,5.5
+2019,Utah,Pesticides,0.2
+2019,Utah,Other,0.6
+2019,Utah,Unknown,4.6
+2019,Vermont,Varroa mites,22.2
+2019,Vermont,Other pests/parasites,4.3
+2019,Vermont,Disesases,0.7
+2019,Vermont,Other,0.5
+2019,Vermont,Unknown,0.1
+2019,Virginia,Varroa mites,37.9
+2019,Virginia,Other pests/parasites,18.3
+2019,Virginia,Disesases,0.9
+2019,Virginia,Pesticides,1.3
+2019,Virginia,Other,2.7
+2019,Virginia,Unknown,3.1
+2019,Washington,Varroa mites,47.3
+2019,Washington,Other pests/parasites,0.9
+2019,Washington,Disesases,2.5
+2019,Washington,Pesticides,4.6
+2019,Washington,Other,9.4
+2019,Washington,Unknown,0.3
+2019,West Virginia,Varroa mites,33.7
+2019,West Virginia,Other pests/parasites,10.7
+2019,West Virginia,Disesases,0.7
+2019,West Virginia,Pesticides,2.7
+2019,West Virginia,Other,6.9
+2019,West Virginia,Unknown,0.3
+2019,Wisconsin,Varroa mites,46.4
+2019,Wisconsin,Other pests/parasites,20.5
+2019,Wisconsin,Disesases,13.9
+2019,Wisconsin,Pesticides,18.1
+2019,Wisconsin,Other,6.5
+2019,Wisconsin,Unknown,3.9
+2019,Wyoming,Varroa mites,45.7
+2019,Wyoming,Other pests/parasites,0.4
+2019,Wyoming,Disesases,3.3
+2019,Wyoming,Pesticides,2.2
+2019,Wyoming,Other,6.3
+2019,Wyoming,Unknown,2.5
+2019,Other States,Varroa mites,11.3
+2019,Other States,Other pests/parasites,4.5
+2019,Other States,Disesases,4.2
+2019,Other States,Pesticides,7.7
+2019,Other States,Other,1.4
+2019,Other States,Unknown,0.1
+2019,United States,Varroa mites,44.1
+2019,United States,Other pests/parasites,13.4
+2019,United States,Disesases,8.5
+2019,United States,Pesticides,13.6
+2019,United States,Other,11.9
+2019,United States,Unknown,4.5
+2019,Alabama,Varroa mites,46.7
+2019,Alabama,Other pests/parasites,26.7
+2019,Alabama,Disesases,0.6
+2019,Alabama,Pesticides,4.9
+2019,Alabama,Other,9
+2019,Alabama,Unknown,11.3
+2019,Arizona,Varroa mites,53.9
+2019,Arizona,Other pests/parasites,1.5
+2019,Arizona,Disesases,0.4
+2019,Arizona,Pesticides,23.3
+2019,Arizona,Other,4
+2019,Arizona,Unknown,2.9
+2019,Arkansas,Varroa mites,47.7
+2019,Arkansas,Other pests/parasites,39.7
+2019,Arkansas,Disesases,1.4
+2019,Arkansas,Pesticides,7.8
+2019,Arkansas,Other,12.5
+2019,Arkansas,Unknown,32.8
+2019,California,Varroa mites,40.5
+2019,California,Other pests/parasites,10.9
+2019,California,Disesases,5.2
+2019,California,Pesticides,11.3
+2019,California,Other,8
+2019,California,Unknown,5
+2019,Colorado,Varroa mites,67.7
+2019,Colorado,Other pests/parasites,1.5
+2019,Colorado,Pesticides,15.3
+2019,Colorado,Other,2.6
+2019,Colorado,Unknown,0.8
+2019,Connecticut,Varroa mites,22.2
+2019,Connecticut,Other pests/parasites,11.1
+2019,Connecticut,Disesases,2.4
+2019,Connecticut,Other,1.7
+2019,Connecticut,Unknown,1.6
+2019,Florida,Varroa mites,43.5
+2019,Florida,Other pests/parasites,25.6
+2019,Florida,Disesases,7.8
+2019,Florida,Pesticides,11.7
+2019,Florida,Other,7.8
+2019,Florida,Unknown,4.8
+2019,Georgia,Varroa mites,34.3
+2019,Georgia,Other pests/parasites,18.2
+2019,Georgia,Disesases,5.6
+2019,Georgia,Pesticides,9.1
+2019,Georgia,Other,2.6
+2019,Georgia,Unknown,4.4
+2019,Hawaii,Varroa mites,44
+2019,Hawaii,Other pests/parasites,61.8
+2019,Hawaii,Disesases,0.2
+2019,Hawaii,Pesticides,1
+2019,Hawaii,Other,0.1
+2019,Idaho,Varroa mites,20.3
+2019,Idaho,Other pests/parasites,4.3
+2019,Idaho,Disesases,5.4
+2019,Idaho,Pesticides,10.5
+2019,Idaho,Other,9.9
+2019,Idaho,Unknown,1.1
+2019,Illinois,Varroa mites,28.9
+2019,Illinois,Other pests/parasites,27.3
+2019,Illinois,Disesases,1.1
+2019,Illinois,Pesticides,3.4
+2019,Illinois,Other,8.9
+2019,Illinois,Unknown,8.9
+2019,Indiana,Varroa mites,20.7
+2019,Indiana,Other pests/parasites,15
+2019,Indiana,Disesases,2.6
+2019,Indiana,Pesticides,6.7
+2019,Indiana,Other,1.6
+2019,Indiana,Unknown,0.6
+2019,Iowa,Varroa mites,61
+2019,Iowa,Other pests/parasites,17.8
+2019,Iowa,Disesases,5.6
+2019,Iowa,Pesticides,25.2
+2019,Iowa,Other,19.7
+2019,Iowa,Unknown,4.2
+2019,Kansas,Varroa mites,65.8
+2019,Kansas,Other pests/parasites,15
+2019,Kansas,Disesases,11.9
+2019,Kansas,Pesticides,43.4
+2019,Kansas,Other,0.4
+2019,Kansas,Unknown,14.4
+2019,Kentucky,Varroa mites,33
+2019,Kentucky,Other pests/parasites,20.1
+2019,Kentucky,Disesases,0.2
+2019,Kentucky,Pesticides,5.3
+2019,Kentucky,Other,12
+2019,Kentucky,Unknown,9.9
+2019,Louisiana,Varroa mites,33
+2019,Louisiana,Other pests/parasites,18.5
+2019,Louisiana,Disesases,3.5
+2019,Louisiana,Pesticides,0.7
+2019,Louisiana,Other,6.1
+2019,Louisiana,Unknown,0.9
+2019,Maine,Varroa mites,20.5
+2019,Maine,Disesases,0.1
+2019,Maine,Pesticides,2.5
+2019,Maine,Other,0.3
+2019,Maine,Unknown,0.2
+2019,Maryland,Varroa mites,12.6
+2019,Maryland,Other pests/parasites,4.5
+2019,Maryland,Disesases,1.8
+2019,Maryland,Other,0.3
+2019,Maryland,Unknown,5
+2019,Massachusetts,Varroa mites,7.6
+2019,Massachusetts,Other pests/parasites,0.2
+2019,Massachusetts,Disesases,0.8
+2019,Massachusetts,Other,1.1
+2019,Massachusetts,Unknown,10.7
+2019,Michigan,Varroa mites,37
+2019,Michigan,Other pests/parasites,9.7
+2019,Michigan,Disesases,9.2
+2019,Michigan,Pesticides,8.3
+2019,Michigan,Other,1.1
+2019,Michigan,Unknown,3.8
+2019,Minnesota,Varroa mites,37.3
+2019,Minnesota,Other pests/parasites,7.8
+2019,Minnesota,Disesases,1.2
+2019,Minnesota,Pesticides,6.1
+2019,Minnesota,Other,1.8
+2019,Minnesota,Unknown,4
+2019,Mississippi,Varroa mites,41
+2019,Mississippi,Other pests/parasites,38
+2019,Mississippi,Disesases,4.1
+2019,Mississippi,Pesticides,13.9
+2019,Mississippi,Other,10.5
+2019,Mississippi,Unknown,5.2
+2019,Missouri,Varroa mites,19.2
+2019,Missouri,Other pests/parasites,5.9
+2019,Missouri,Disesases,0.2
+2019,Missouri,Pesticides,0.1
+2019,Missouri,Other,1.5
+2019,Missouri,Unknown,0.4
+2019,Montana,Varroa mites,15.7
+2019,Montana,Other pests/parasites,1.8
+2019,Montana,Pesticides,0.8
+2019,Montana,Other,2.8
+2019,Montana,Unknown,0.3
+2019,Nebraska,Varroa mites,5.8
+2019,Nebraska,Other pests/parasites,1
+2019,Nebraska,Pesticides,3.5
+2019,Nebraska,Other,2.8
+2019,Nebraska,Unknown,6.4
+2019,New Jersey,Varroa mites,2.5
+2019,New Jersey,Other pests/parasites,0.9
+2019,New Jersey,Other,1.3
+2019,New Jersey,Unknown,0.5
+2019,New Mexico,Varroa mites,5.2
+2019,New Mexico,Other pests/parasites,0.3
+2019,New Mexico,Disesases,0.4
+2019,New Mexico,Other,2.6
+2019,New York,Varroa mites,33.3
+2019,New York,Other pests/parasites,24.8
+2019,New York,Disesases,3
+2019,New York,Pesticides,8.7
+2019,New York,Other,3.2
+2019,New York,Unknown,4
+2019,North Carolina,Varroa mites,44.5
+2019,North Carolina,Other pests/parasites,21
+2019,North Carolina,Disesases,4.5
+2019,North Carolina,Pesticides,2.4
+2019,North Carolina,Other,15.7
+2019,North Carolina,Unknown,11.7
+2019,North Dakota,Varroa mites,43
+2019,North Dakota,Other pests/parasites,7.1
+2019,North Dakota,Disesases,1.8
+2019,North Dakota,Pesticides,3.7
+2019,North Dakota,Other,2
+2019,North Dakota,Unknown,1.7
+2019,Ohio,Varroa mites,33.2
+2019,Ohio,Other pests/parasites,5.6
+2019,Ohio,Disesases,0.4
+2019,Ohio,Pesticides,0.6
+2019,Ohio,Other,3.3
+2019,Ohio,Unknown,7.6
+2019,Oklahoma,Varroa mites,1
+2019,Oklahoma,Other pests/parasites,0.4
+2019,Oklahoma,Pesticides,0.4
+2019,Oklahoma,Other,0.4
+2019,Oklahoma,Unknown,0.1
+2019,Oregon,Varroa mites,35.8
+2019,Oregon,Other pests/parasites,2.1
+2019,Oregon,Disesases,4.7
+2019,Oregon,Pesticides,1.8
+2019,Oregon,Other,16.6
+2019,Oregon,Unknown,16
+2019,Pennsylvania,Varroa mites,33.2
+2019,Pennsylvania,Other pests/parasites,4.6
+2019,Pennsylvania,Disesases,1
+2019,Pennsylvania,Pesticides,3.2
+2019,Pennsylvania,Other,2.3
+2019,Pennsylvania,Unknown,2.9
+2019,South Carolina,Varroa mites,56.7
+2019,South Carolina,Other pests/parasites,18.4
+2019,South Carolina,Disesases,1.7
+2019,South Carolina,Pesticides,3.5
+2019,South Carolina,Other,13.1
+2019,South Carolina,Unknown,6.3
+2019,South Dakota,Varroa mites,12.2
+2019,South Dakota,Other pests/parasites,6.1
+2019,South Dakota,Disesases,3.2
+2019,South Dakota,Pesticides,5.6
+2019,South Dakota,Other,11.2
+2019,South Dakota,Unknown,1.5
+2019,Tennessee,Varroa mites,66.6
+2019,Tennessee,Other pests/parasites,53.5
+2019,Tennessee,Pesticides,33.6
+2019,Tennessee,Other,7.6
+2019,Tennessee,Unknown,9.1
+2019,Texas,Varroa mites,23.1
+2019,Texas,Other pests/parasites,14
+2019,Texas,Disesases,4.6
+2019,Texas,Pesticides,4.9
+2019,Texas,Other,5.8
+2019,Texas,Unknown,1.4
+2019,Utah,Varroa mites,22.1
+2019,Utah,Other pests/parasites,2
+2019,Utah,Disesases,2
+2019,Utah,Pesticides,10.3
+2019,Utah,Other,0.2
+2019,Utah,Unknown,0.3
+2019,Vermont,Varroa mites,21
+2019,Vermont,Other pests/parasites,1.3
+2019,Vermont,Disesases,0.6
+2019,Vermont,Pesticides,0.8
+2019,Vermont,Other,0.6
+2019,Vermont,Unknown,0.9
+2019,Virginia,Varroa mites,37.7
+2019,Virginia,Other pests/parasites,18.6
+2019,Virginia,Disesases,0.4
+2019,Virginia,Other,5.3
+2019,Virginia,Unknown,6
+2019,Washington,Varroa mites,40.3
+2019,Washington,Other pests/parasites,2.3
+2019,Washington,Disesases,0.6
+2019,Washington,Pesticides,19.6
+2019,Washington,Other,2.9
+2019,Washington,Unknown,3.2
+2019,West Virginia,Varroa mites,65.8
+2019,West Virginia,Other pests/parasites,10.7
+2019,West Virginia,Disesases,1.1
+2019,West Virginia,Pesticides,0.4
+2019,West Virginia,Other,6.1
+2019,West Virginia,Unknown,2.2
+2019,Wisconsin,Varroa mites,40
+2019,Wisconsin,Other pests/parasites,22.1
+2019,Wisconsin,Disesases,14.8
+2019,Wisconsin,Pesticides,14.1
+2019,Wisconsin,Other,22
+2019,Wisconsin,Unknown,7.3
+2019,Wyoming,Varroa mites,27.6
+2019,Wyoming,Other pests/parasites,12.3
+2019,Wyoming,Disesases,3.2
+2019,Wyoming,Other,4.3
+2019,Wyoming,Unknown,13.2
+2019,Other States,Varroa mites,13.6
+2019,Other States,Other pests/parasites,2.3
+2019,Other States,Disesases,0.3
+2019,Other States,Pesticides,0.3
+2019,Other States,Other,32.4
+2019,Other States,Unknown,0.9
+2019,United States,Varroa mites,45.7
+2019,United States,Other pests/parasites,15
+2019,United States,Disesases,5.4
+2019,United States,Pesticides,10.9
+2019,United States,Other,8.6
+2019,United States,Unknown,5.3

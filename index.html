@@ -13,7 +13,8 @@
         body {
             font-family: Arial, Helvetica, sans-serif;
             margin: 0;
-            background-color: #FFC000
+            background-color: #FFC000;
+            min-height: 100vh;
         }
 
         /* Header/logo Title */
@@ -230,11 +231,13 @@
         <img src="Images/beeHive.jpg" alt="Honey Bee"  height="200px;">
 
     </div>
+
+
     <div class="main">
         <h2>Bee Colony Numbers Across the US</h2>
         <h5>US Heat Map for bee colony numbers.</h5>
         <div class="dropdown">
-            <button onclick="myFunction(1)" class="dropbtn">Dropdown</button>
+            <button onclick="myFunction(1)" class="dropbtn">Select Year</button>
             <div id="myDropdown1" class="dropdown-content">
                 <a href="USMap_Files/index_2015.html">2015</a>
                 <a href="USMap_Files/index_2016.html">2016</a>
@@ -267,6 +270,50 @@
         </div>
         <div class="fakeimg" style="height:200px;">Image</div>
         <p>context.</p>
+        <br>
+
+        <h2>Bee Colony losses and additions compared</h2>
+        <h5>Line chart to represent the change in bee colony losses and additions from 2015-2021</h5>
+        <div class="dropdown">
+            <button onclick="myFunction(3)" class="dropbtn">Select Year</button>
+            <div id="myDropdown3" class="dropdown-content">
+                <a href="#temp">2015</a>
+                <a href="#temp1">2016</a>
+                <a href="#temp2">2017</a>
+                <a href="#temp3">2018</a>
+                <a href="#temp4">2019</a>
+                <a href="#temp5">2020</a>
+                <a href="#temp6">2021</a>
+            </div>
+        </div>
+        <div class="fakeimg" style="height:200px;">Image</div>
+        <p>Context.</p>
+        <br>
+
+
+        <h2>Most Impactful Bee Colony Stressors</h2>
+        <h5>Beeswarm for the effectiveness of bee colony stressors</h5>
+        <div class="dropdown">
+            <button onclick="myFunction(4)" class="dropbtn">Select Year</button>
+            <div id="myDropdown4" class="dropdown-content">
+                <a href="beeswarmChart/beeswarm2015.html">2015</a>
+                <a href="beeswarmChart/beeswarm2016.html">2016</a>
+                <a href="beeswarmChart/beeswarm2017.html">2017</a>
+                <a href="beeswarmChart/beeswarm2018.html">2018</a>
+                <a href="beeswarmChart/beeswarm2019.html">2019</a>
+                <a href="beeswarmChart/beeswarm2020.html">2020</a>
+                <a href="beeswarmChart/beeswarm2021.html">2021</a>
+            </div>
+        </div>
+        <iframe class="preview" src="beeswarmChart/beeswarm2015.html"></iframe>
+
+
+        <p>Context.</p>
+        <br>
+
+
+
+
     </div>
 </div>
 
