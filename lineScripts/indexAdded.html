@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Colonies Added 2015-2021</title>
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
+
+<!-- Create a div where the graph will take place -->
+<div id="line_added"></div>
+
+<style>
+    body{
+        background: #D3D3D3;
+    }
+</style>
+
+
+<script>
+
+    // set the dimensions and margins of the graph
+    var margin = {top: 10, right: 30, bottom: 30, left: 100},
+        width = 900 - margin.left - margin.right,
+        height = 500 - margin.top - margin.bottom;
+
+
+
+    var svg = d3.select("#line_added")
+        .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform",
+            "translate(" + margin.left + "," + margin.top + ")");
+
+    //Read the data
+    d3.csv("added.csv",
+
+        // When reading the csv, I must format variables:
+        function(d){
+            return { date : d3.timeParse("%Y")(d.year), value : d.col_added }
+        },
+
+        // Now I can use this dataset:
+        function(data) {
+
+
+
+            // Add X axis --> it is a date format
+            var x = d3.scaleTime()
+                .domain(d3.extent(data, function(d) { return d.date; }))
+                .range([ 0, width ]);
+            svg.append("g")
+                .attr("transform", "translate(0," + (height+5) + ")")
+                .call(d3.axisBottom(x).ticks(5).tickSizeOuter(0));
+
+            // Add Y axis
+            var y = d3.scaleLinear()
+                .domain( d3.extent(data, function(d) { return +d.value; }) )
+                .range([ height, 0 ]);
+            svg.append("g")
+                .attr("transform", "translate(-5,0)")
+                .call(d3.axisLeft(y).tickSizeOuter(0));
+
+            // Add the area
+            svg.append("path")
+                .datum(data)
+                .attr("fill", "green")
+                .attr("fill-opacity", .3)
+                .attr("stroke", "none")
+                .attr("d", d3.area()
+                    .x(function(d) { return x(d.date) })
+                    .y0( height )
+                    .y1(function(d) { return y(d.value) })
+                )
+
+            // Add the line
+            svg.append("path")
+                .datum(data)
+                .attr("fill", "none")
+                .attr("stroke", "green")
+                .attr("stroke-width", 4)
+                .attr("d", d3.line()
+                    .x(function(d) { return x(d.date) })
+                    .y(function(d) { return y(d.value) })
+                )
+
+            // Add the line
+            svg.selectAll("myCircles")
+                .data(data)
+                .enter()
+                .append("circle")
+                .attr("fill", "black")
+                .attr("stroke", "none")
+                .attr("cx", function(d) { return x(d.date) })
+                .attr("cy", function(d) { return y(d.value) })
+                .attr("r", 3)
+
+        })
+
+</script>
