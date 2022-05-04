@@ -36,6 +36,7 @@
         width = svg.attr("width") - margin.left - margin.right,
         height = svg.attr("height") - margin.top - margin.bottom;
 
+
     //var formatValue = d3.format(",d");
 
     var x = d3.scaleLog()
@@ -49,6 +50,13 @@
 
     var g = svg.append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    //title
+    g.append("text")
+        .attr("text-anchor", "end")
+        .attr("x", 300)
+        .attr("y", -20 )
+        .attr("fill" , "black")
+        .text("Percent of Colonies Affected by Stressor in 2019");
 
     d3.csv("data_2019.csv", type, function(error, data) {
         if (error) throw error;
@@ -98,7 +106,7 @@
     }
     g.append('g')
         .attr("class", "legendSequential")
-        .attr("transform", "translate(100,350)");
+        .attr("transform", "translate(-10,225)");
 
     var legendSequential = d3.legendColor()
         .title("Legend")

@@ -183,6 +183,17 @@
             border:4px solid blue;
             margin:0 0 -300px 0;
         }
+        .preview2 {
+            width:950px; height:600px;
+            -webkit-transform:scale(.25);
+            -ms-transform:scale(.5);
+            transform:scale(.5);
+            -webkit-transform-origin:0 0;
+            -ms-transform-origin:0 0;
+            transform-origin:0 0;
+            border:4px solid blue;
+            margin:0 0 -300px 0;
+        }
 
 
         /* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
@@ -293,19 +304,26 @@
 
         <h2>Bee Colony losses and additions compared</h2>
         <h5>Line chart to represent the change in bee colony losses and additions from 2015-2021</h5>
-        <iframe class="preview" src="lineScripts/indexAdded.html"></iframe>
+        <iframe class="preview2" src="lineScripts/indexAdded.html"></iframe>
 
-        <p class = top-three>Context.</p>
+        <p class>This line chart represents the amount of colonies added across the US.
+        Note that data for 2019 excludes months April-June and data for 2021 was only collected for months
+        January-June. This chart is useful as it presents the effort states across the US have made to
+        maintain and increase their colony population.</p>
          <br>
 
-        <iframe class="preview" src="lineScripts/indexLoss.html"></iframe>
+        <iframe class="preview2" src="lineScripts/indexLoss.html"></iframe>
 
         <!--
         <div id="line_added">
             <script src="lineScripts/addedLine.js"></script>
         </div>
         -->
-        <p class = top-three>Context.</p>
+        <p>This line chart represents the amount of colonies lost across the US.
+            Note that data for 2019 excludes months April-June and data for 2021 was only collected for months
+            January-June. This chart is useful as it presents the huge loss of colonies states across the
+            US have faced in their colony population. When comparing it to the chart that represents the colony added,
+            you can ask yourself, is the US making up the defecit? </p>
         <br>
 
 
@@ -326,11 +344,11 @@
         <iframe class="preview" src="beeswarmChart/beeswarm2015.html"></iframe>
 
 
-        <p class = top-three>Context.</p>
+        <p class = top-three>This chart is a beeswarm that presents the percent of colonies affected
+        by a given stressor. A colony can be affected by multiple stressors at once and the values range
+        0.01 and up to 100. The legend contains the 6 different stressor types that have affected colonies
+        across the US. You can hover over a dot to view the value of the stressor.</p>
         <br>
-
-
-
 
 
     </div>
