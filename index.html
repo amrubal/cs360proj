@@ -4,6 +4,8 @@
     <title>CS360 Final Project</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/d3.v4.js"></script>
     <style>
         * {
             box-sizing: border-box;
@@ -14,7 +16,8 @@
             font-family: Arial, Helvetica, sans-serif;
             margin: 0;
             background-color: #FFC000;
-            min-height: 100vh;
+           min-height: 2500px;
+
         }
 
         /* Header/logo Title */
@@ -135,16 +138,32 @@
             background-color: #FFC000;
             padding: 20px;
         }
+        /* add some spacing for context to be visible*/
+        .top-three {
+            margin-top: 3cm;
+        }
 
         /* Fake image, just for this example */
 
 
         /* Footer */
+        /*
         .footer {
-            padding: 20px;
+           /*position:absolute;
+            bottom:0;
+            padding: 10px;
             text-align: center;
             background: #666;
+
+            width: 100%;
+            height: 20px;
+            position: fixed;
+            bottom: 5px;
+            left: 0;
+
+
         }
+        */
 
         /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
         @media screen and (max-width: 700px) {
@@ -274,28 +293,27 @@
 
         <h2>Bee Colony losses and additions compared</h2>
         <h5>Line chart to represent the change in bee colony losses and additions from 2015-2021</h5>
-        <div class="dropdown">
-            <button onclick="myFunction(3)" class="dropbtn">Select Year</button>
-            <div id="myDropdown3" class="dropdown-content">
-                <a href="#temp">2015</a>
-                <a href="#temp1">2016</a>
-                <a href="#temp2">2017</a>
-                <a href="#temp3">2018</a>
-                <a href="#temp4">2019</a>
-                <a href="#temp5">2020</a>
-                <a href="#temp6">2021</a>
-            </div>
+        <iframe class="preview" src="lineScripts/indexAdded.html"></iframe>
+
+        <p class = top-three>Context.</p>
+         <br>
+
+        <iframe class="preview" src="lineScripts/indexLoss.html"></iframe>
+
+        <!--
+        <div id="line_added">
+            <script src="lineScripts/addedLine.js"></script>
         </div>
-        <div class="fakeimg" style="height:200px;">Image</div>
-        <p>Context.</p>
+        -->
+        <p class = top-three>Context.</p>
         <br>
 
 
         <h2>Most Impactful Bee Colony Stressors</h2>
         <h5>Beeswarm for the effectiveness of bee colony stressors</h5>
         <div class="dropdown">
-            <button onclick="myFunction(4)" class="dropbtn">Select Year</button>
-            <div id="myDropdown4" class="dropdown-content">
+            <button onclick="myFunction(3)" class="dropbtn">Select Year</button>
+            <div id="myDropdown3" class="dropdown-content">
                 <a href="beeswarmChart/beeswarm2015.html">2015</a>
                 <a href="beeswarmChart/beeswarm2016.html">2016</a>
                 <a href="beeswarmChart/beeswarm2017.html">2017</a>
@@ -308,18 +326,21 @@
         <iframe class="preview" src="beeswarmChart/beeswarm2015.html"></iframe>
 
 
-        <p>Context.</p>
+        <p class = top-three>Context.</p>
         <br>
+
 
 
 
 
     </div>
 </div>
-
+<!--
 <div class="footer">
     <a href="https://amrubal.github.io/">Personal Website</a>
 </div>
+-->
+
 
 <!-- script for drop down button -->
 <script>
