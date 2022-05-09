@@ -1,0 +1,46 @@
+state,Number of Colonies,Colonies Lost,Colonies Added,Colonies Renovated,Region
+Alabama,28000,3930,3010,2260,Southeast
+Arizona,75000,13200,18800,7300,Southwest
+Arkansas,89000,18900,12330,2340,Southeast
+California,3560000,476000,588000,505000,West
+Conneticut,13600,980,2540,590,Northeast
+Colorado,85500,14800,9900,17910,West
+Florida,861000,144000,214000,161000,Southeast
+Georgia,494000,61000,80300,79200,Southeast
+Hawaii,55000,1480,2430,1270,West
+Idaho,358000,39000,45000,52780,West
+Illinois,49500,7000,7550,3410,Midwest
+Indiana,39000,5730,5540,1420,Midwest
+Iowa,97500,10700,26350,11300,Midwest
+Kansas,21700,3910,4970,2310,Midwest
+Kentucky,29500,4330,4350,1850,Southeast
+Louisiana,222000,21500,30490,46800,Southeast
+Maine,15900,2370,1320,1800,Northeast
+Maryland,33500,5190,5290,2200,Midwest
+Massachusetts,20200,3490,2930,1610,Northeast
+Michigan,275000,38600,27890,25030,Midwest
+Minnesota,268000,32000,22300,11650,Midwest
+Mississippi,158000,12700,29030,50560,Southeast
+Missouri,32000,2860,2520,1550,Midwest
+Montana,333500,35770,26700,51900,West
+Nebraska,96500,11840,6960,52550,Midwest
+New Jersey,37500,2050,2210,1040,Northeast
+New Mexico,15500,4200,4100,4100,Southwest
+New York,135000,11700,19920,16960,Northeast
+North Carolina,89000,12400,11760,7090,Southeast
+North Dakota,1042000,85140,54600,139910,Midwest
+Ohio,70500,10100,10910,5790,Midwest
+Oklahoma,55400,1260,16080,3470,Southwest
+Oregon,343000,36500,33070,719000,West
+Pennsylvania,74500,11710,16310,5310,Northeast
+South Carolina,64000,6170,8540,5860,Southeast
+South Dakota,207000,25200,17500,27940,Midwest
+Tennessee,35500,5700,5130,2740,Southeast
+Texas,846000,88000,215200,225400,Southwest
+Utah,99000,135000,23380,13830,West
+Vermont,20000,820,920,470,Northeast
+Virginia,37500,4700,5730,2020,Northeast
+Washington,237000,27500,2900,14000,West
+West Virginia,305000,3270,4360,6100,Southeast
+Wisconsin,1610000,28300,19980,18570,Midwest
+Wyoming,78000,10100,10400,7920,West

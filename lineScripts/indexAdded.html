@@ -30,9 +30,9 @@
 <script>
 
     // set the dimensions and margins of the graph
-    var margin = {top: 100, right: 30, bottom: 30, left: 100},
+    var margin = {top: 100, right: 30, bottom: 50, left: 100},
         width = 900 - margin.left - margin.right,
-        height = 500 - margin.top - margin.bottom;
+        height = 520 - margin.top - margin.bottom;
 
 
 
@@ -63,7 +63,14 @@
                 .range([ 0, width ]);
             svg.append("g")
                 .attr("transform", "translate(0," + (height+5) + ")")
-                .call(d3.axisBottom(x).ticks(5).tickSizeOuter(0));
+                .call(d3.axisBottom(x).ticks(5).tickSizeOuter(0))
+                .append("text")
+                    .attr("y", height-340) //location of title
+                    .attr("x", width-380)
+                    .attr("stroke", "black")
+                    .attr("stroke-width", .75)
+                    .text("Year");
+
 
             // Add Y axis
             var y = d3.scaleLinear()
@@ -71,7 +78,16 @@
                 .range([ height, 0 ]);
             svg.append("g")
                 .attr("transform", "translate(-5,0)")
-                .call(d3.axisLeft(y).tickSizeOuter(0));
+                .call(d3.axisLeft(y).tickSizeOuter(0))
+                .append("text")
+                    .attr("transform", "rotate(-90)") //label goes up sideways for readibility
+                    .attr("y", -30) //y and
+                    .attr("x", -90) //x pos
+                    .attr("dy", "-5.1em")
+                    .attr("stroke", "black")
+                    .attr("stroke-width", .75)
+                    .text("Amount of Colonies Added") //label
+
 
 
             //div tooltip
@@ -79,6 +95,14 @@
             var div = d3.select("#line_added").append("div")
                 .attr("class", "tooltip")
                 .style("opacity", 0);
+
+            //title
+            svg.append("text")
+                .attr("text-anchor", "end")
+                .attr("x", 535)
+                .attr("y", -60 )
+                .attr("fill" , "black")
+                .text("Amount of Colonies Added 2015-2021");
 
 
             // Add the area
