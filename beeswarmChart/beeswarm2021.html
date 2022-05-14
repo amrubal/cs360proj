@@ -40,10 +40,44 @@
 <body>
 <!-- back to home page -->
 <a href="https://amrubal.github.io/cs360proj/" class="previous">&laquo; Back</a>
+
+<div class="dropdown">
+    <button onclick="myFunction()" class="dropbtn">Select Year</button>
+    <div id="myDropdown" class="dropdown-content">
+        <a href="beeswarm2015.html">2015</a>
+        <a href="beeswarm2016.html">2016</a>
+        <a href="beeswarm2017.html">2017</a>
+        <a href="beeswarm2018.html">2018</a>
+        <a href="beeswarm2019.html">2019</a>
+        <a href="beeswarm2020.html">2020</a>
+        <a href="beeswarm2021.html">2021</a>
+    </div>
+</div>
 </body>
 <svg width="960" height="600"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
+
+<script>
+    /* When the user clicks on the button,
+        toggle between hiding and showing the dropdown content */
+    function myFunction() {
+        document.getElementById("myDropdown").classList.toggle("show");
+    }
+    // Close the dropdown if the user clicks outside of it
+    window.onclick = function(event) {
+        if (!event.target.matches('.dropbtn')) {
+            var dropdowns = document.getElementsByClassName("dropdown-content");
+            var i;
+            for (i = 0; i < dropdowns.length; i++) {
+                var openDropdown = dropdowns[i];
+                if (openDropdown.classList.contains('show')) {
+                    openDropdown.classList.remove('show');
+                }
+            }
+        }
+    }
+</script>
 <script>
 
     var svg = d3.select("svg"),

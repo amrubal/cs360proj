@@ -97,14 +97,24 @@ function render() {
                 return d.properties.state;
             });
 
-        svg.append('g').attr('class', 'legendLinear').attr('transform', 'translate(0,650)');
+        svg.append('g').attr('class', 'legendLinear').attr('transform', 'translate(810,370)');
 
-        var legendLinear = d3.legendColor().shapeWidth(40).cells(8).labelFormat(function (d) {
-            return _.round(d, -1);
-        }).orient('horizontal').scale(linear);
+        var legendLinear = d3.legendColor()
+            .shapeWidth(20)
+            //.cells(10)
+            .cells([10000, 50000, 100000, 500000, 1000000,3000000])
+            //.labelFormat(function (d) {
+            //return _.round(d, -1);
+       // })
+            .orient('vertical')
+            .scale(linear);
 
         svg.select('.legendLinear').call(legendLinear);
 
-        svg.select('.legendLinear').append('text').attr('x', 0).attr('y', -10).attr('text-anchor', 'left').text('Number of Bee Colonies');
+        svg.select('.legendLinear').append('text').attr('x', 0).attr('y', -10).attr('text-anchor', 'left').text('# of Colonies');
     });
+
+
+
+
 }

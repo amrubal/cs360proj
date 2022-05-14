@@ -48,6 +48,46 @@
         color: black;
     }
 
+    /* drop down button */
+    .dropbtn {
+        background-color: #3498DB;
+        color: white;
+        padding: 8px;
+        font-size: 12px;
+        border: none;
+        cursor: pointer;
+    }
+
+    .dropbtn:hover, .dropbtn:focus {
+        background-color: #2980B9;
+    }
+
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f1f1f1;
+        min-width: 120px;
+        overflow: auto;
+        box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+    }
+
+    .dropdown-content a {
+        color: black;
+        padding: 4px 4px;
+        text-decoration: none;
+        display: block;
+    }
+
+    .dropdown a:hover {background-color: #ddd;}
+
+    .show {display: block;}
+
 </style>
 
 <script type='text/javascript' src='//d3js.org/d3.v4.min.js'></script>
@@ -59,6 +99,19 @@
 <body>
 <!-- back to home page -->
 <a href="https://amrubal.github.io/cs360proj/" class="previous">&laquo; Back</a>
+
+<div class="dropdown">
+    <button onclick="myFunction()" class="dropbtn">Select Year</button>
+    <div id="myDropdown" class="dropdown-content">
+        <a href="index_2015.html">2015</a>
+        <a href="index_2016.html">2016</a>
+        <a href="index_2017.html">2017</a>
+        <a href="index_2018.html">2018</a>
+        <a href="index_2019.html">2019</a>
+        <a href="index_2020.html">2020</a>
+        <a href="index_2021.html">2021</a>
+    </div>
+</div>
 
 
 <!-- START required DOM structure -->
@@ -83,6 +136,26 @@
     }, 5000)
 
     d3.select(self.frameElement).style('height', '650px');
+
+
+    /* When the user clicks on the button,
+        toggle between hiding and showing the dropdown content */
+    function myFunction() {
+        document.getElementById("myDropdown").classList.toggle("show");
+    }
+    // Close the dropdown if the user clicks outside of it
+    window.onclick = function(event) {
+        if (!event.target.matches('.dropbtn')) {
+            var dropdowns = document.getElementsByClassName("dropdown-content");
+            var i;
+            for (i = 0; i < dropdowns.length; i++) {
+                var openDropdown = dropdowns[i];
+                if (openDropdown.classList.contains('show')) {
+                    openDropdown.classList.remove('show');
+                }
+            }
+        }
+    }
 </script>
 </body>
 </html>
