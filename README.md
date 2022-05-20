@@ -19,14 +19,18 @@ A Data Visualization Project on the loss of bee colonies and the stressors trigg
 [Save the Bees](https://amrubal.github.io/cs360proj/)
 
 ## User Manual
-- Clone repository by running 'git clone https://github.com/amrubal/cs360proj.git '
+- Clone repository by running 
+    ```git clone https://github.com/amrubal/cs360proj.git ```
 - Navigate to folder path/to/cs360proj and open folder in your chosen IDE/editor (I recommend webStorm or VScode)
     - You can also commit and push via your chosen IDE
-- Create a new branch by running 'git checkout -b <NAME_OF_NEW_BRANCH>'
+- Create a new branch by running 
+     ```git checkout -b <NAME_OF_NEW_BRANCH> ```
 - Run index.html locally to see what the project currently looks like 
 - Add any additions/changes of your choosing 
-- Commit new changes by running 'git add <NEW_FILES> to add the new files and then 'git commit -m <COMMIT_MESSAGE>' 
-- Push the newly committed changes to github by running 'git push origin <NAME_OF_NEW_BRANCH>
+- Commit new changes by running 
+    ```git add <NEW_FILES> to add the new files``` and then ```git commit -m <COMMIT_MESSAGE>``` 
+- Push the newly committed changes to github by running 
+    ```git push origin <NAME_OF_NEW_BRANCH>```
 
 ## Tech Stack
 - [D3](https://d3js.org)   
