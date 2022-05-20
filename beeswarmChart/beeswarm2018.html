@@ -127,10 +127,10 @@
 
 
     //var formatValue = d3.format(",d");
-
+    //log scale for points to be plotted on x -axis
     var x = d3.scaleLog()
         .rangeRound([0, width]);
-
+//color scale to color each stressor
     var colorScale = d3.scaleOrdinal()
         .domain(["Varroa mites", "Other pests/parasites","Disesases", "Pesticides", "Other", "Unknown"])
         .range(["blue","green","black", "fuchsia", "orange","burlywood"]);
@@ -146,12 +146,12 @@
         .attr("y", -20 )
         .attr("fill" , "black")
         .text("Percent of Colonies Affected by Stressor in 2018");
-
+    //grab data and return values
     d3.csv("data_2018.csv", type, function(error, data) {
         if (error) throw error;
 
         x.domain(d3.extent(data, function(d) { return d.value; }));
-
+//prevent collision between points
         var simulation = d3.forceSimulation(data)
             .force("x", d3.forceX(function(d) { return x(d.value); }).strength(1))
             .force("y", d3.forceY(height / 2))
@@ -159,12 +159,11 @@
             .stop();
 
         for (var i = 0; i < 1000; ++i) simulation.tick();
-
+//x-axis ticks
         g.append("g")
             .attr("class", "axis axis--x")
             .attr("transform", "translate(0," + height + ")")
             .call(d3.axisBottom(x).ticks(20, "1"));
-
         var cell = g.append("g")
             .attr("class", "cells")
             .selectAll("g").data(d3.voronoi()
@@ -174,7 +173,7 @@
                 .polygons(data)).enter().append("g");
 
 
-
+//add points
         cell.append("circle")
             .attr("r", 3)
             .attr("fill", function (d) { return colorScale(d.data.id); } )
@@ -193,6 +192,7 @@
         d.value = +d.value;
         return d;
     }
+    //add legend using susie lu d3 legend library
     g.append('g')
         .attr("class", "legendSequential")
         .attr("transform", "translate(-10,225)");

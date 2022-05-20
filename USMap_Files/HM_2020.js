@@ -35,7 +35,7 @@ function render() {
 
 
     var svg = d3.select('svg').attr('width', w).attr('height', h);
-
+//pass in tiles data to later map it out
     d3.json('tiles-topo-us.json', function showData(error, tilegram) {
         var tiles = topojson.feature(tilegram, tilegram.objects.tiles);
 
@@ -55,13 +55,13 @@ function render() {
         var stateNames = [];
 
         var colorValues = [];
-
+//use json file to properly align tiles in us map && state codes for state names
         tilegram.objects.tiles.geometries.forEach(function (geometry) {
             if (stateCodes.indexOf(geometry.properties.state) === -1) {
                 stateCodes.push(geometry.properties.state);
                 // pass in state names
                 stateNames.push(_.find(stateCodesWithNames, { 'code': geometry.properties.state }).state);
-                // pass in colour values
+                // pass in color values
                 colorValues.push(_.find(data, { 'code': geometry.properties.state }).value);
             }
         });
