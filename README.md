@@ -8,6 +8,7 @@ A Data Visualization Project on the loss of bee colonies and the stressors trigg
 - [Website Link](#Website-Link)
 - [User Manual](#User-Manual)
 - [Tech Stack](#Tech-Stack)
+- [Dependencies](#Dependencies)
 
 ## Features
 - US Hex Heat Map for bee colony population across states in the US for 2015-2021. 
