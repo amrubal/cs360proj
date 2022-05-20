@@ -16,7 +16,7 @@ A Data Visualization Project on the loss of bee colonies and the stressors trigg
 - Bee swarm that plots the effectiveness of bee colony stressors from 2015-2021. 
 
 ## Website Link
-[Website Link](https://amrubal.github.io/cs360proj/)
+[Save the Bees](https://amrubal.github.io/cs360proj/)
 
 ## User Manual
 - Clone repository by running 'git clone https://github.com/amrubal/cs360proj.git '
