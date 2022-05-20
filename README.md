@@ -7,9 +7,10 @@ A Data Visualization Project on the loss of bee colonies and the stressors trigg
 - [Features](#Features)
 - [Website Link](#Website-Link)
 - [User Manual](#User-Manual)
+- [Tech Stack] (#Tech-Stack)
 
 ## Features
-- US Hex Heat Map for bee colony population across states in the US for 2015-2021.
+- US Hex Heat Map for bee colony population across states in the US for 2015-2021. 
 - Parallel Coordinate Chart for the 5 regions of the US (Northeast, Southeast, Midwest, Southwest, West) that maps bee colony population, bee colony losses, bee colonies added, and bee colonies renovated for 2015-2021.
 - Line charts for amount of colonies lost and added from 2015-2021.
 - Bee swarm that plots the effectiveness of bee colony stressors from 2015-2021. 
@@ -25,6 +26,14 @@ A Data Visualization Project on the loss of bee colonies and the stressors trigg
 - Add any additions/changes of your choosing 
 - Commit new changes by running 'git add <NEW_FILES> to add the new files and then 'git commit -m <COMMIT_MESSAGE>' 
 - Push the newly committed changes to github by running 'git push origin <NAME_OF_NEW_BRANCH>
+
+## Tech Stack
+- [D3](https://d3js.org)   
+- [Version of D3 Used](https://d3js.org/d3.v4.js) 
+- [d3-svg-legend](https://d3-legend.susielu.com)
+- [JavaScript] (https://www.javascript.com)
+
+
 
 
 
