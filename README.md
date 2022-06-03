@@ -41,7 +41,7 @@ A Data Visualization Project on the loss of bee colonies and the stressors trigg
 
 ## Dependencies 
 - The data for each visualization is in its respective folder 
-    - ex. the data for the US Hex Map for the year of 2015 is in the "pCoordinates" folder and the data file for 2015 is called "data_2015.csv"
+    - ex. the data for the parallel coordinates chart for the year of 2015 is in the "pCoordinates" folder and the data file for 2015 is called "data_2015.csv"
 - It is important(!) to use this data and not edit it for the visualizations already made as I edited the data for each visualization
    - For more data on bee colonies in the US, visit [Bee Colony Data Repository](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-01-11)
 
